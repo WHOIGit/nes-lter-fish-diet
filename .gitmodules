@@ -1,0 +1,3 @@
+[submodule "ForageFish_EDI"]
+	path = ForageFish_EDI
+	url = https://github.com/glancysg/ForageFish_EDI.git
