@@ -1,0 +1,7 @@
+keyword	keywordThesaurus
+populations	LTER Core Research Areas
+fishes	LTER Controlled Vocabulary
+zooplankton	LTER Controlled Vocabulary
+predation	LTER Controlled Vocabulary
+marine	LTER Controlled Vocabulary
+Northeast U.S. Continental Shelf	NOAA Large Marine Ecosystems
