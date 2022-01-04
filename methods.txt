@@ -1,0 +1,14 @@
+# Fish collection
+
+Alewife, blueback herring, Atlantic mackerel, Atlantic herring, Atlantic butterfish and Northern sand lance were collected from NOAA Northeast Fisheries Science Center (NEFSC) spring and fall trawl surveys: 2013 - 2015 and 2018 - 2019. Each survey spanned the continental shelf from the northern Gulf of Maine to Cape Hatteras, with spring sampling encompassing March through May and fall sampling extending from September through early November. The fish we analyzed were selected randomly from those available where bottom trawl surveys co-occurred with NOAA ECOMON plankton collections. The number of fish analyzed per species per station ranged from 1 to 5. Fish were frozen shipboard at −80 °C and stored at −20 °C (−80 °C in 2013 - 2015) until processed in the laboratory.
+
+# Diet Data Collection
+
+Fish were thawed to near room temperature before dissection. Fork lengths were recorded for each fish. The entire gastrointestinal tract was used due to the lack of a defined stomach in clupeids. The gastrointestinal tract was then opened, and contents were placed in 95% ethanol for preservation. Gut contents were examined under a dissecting microscope and identified to the lowest taxonomic level practical. In cases of extremely high gut fullness, a known split was enumerated, and this value was divided by the fraction of total volume that the split represented to yield an approximation for total stomach contents. (We do not recognize the rows in the preyCount data table for which the latter applies. The assumption is that all rows represent totals.) A subset of individual prey items was measured under the microscope.
+
+# Data Cleaning
+
+This version of the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) data package concatenates the previous long-format preyCount table (2013 - 2015) with new data (2018 - 2019). We include a second data table for the subset of individual prey items that were measured (2018 - 2019). GMT date and time and position at the start of the sample event and average depth were merged from NOAA Fisheries trawl databases (Northeast Fisheries Science Center, 2019: Fall Bottom Trawl Surveys from 2018-2019. NOAA National Centers for Environmental Information, https://inport.nmfs.noaa.gov/inport/item/22560; Northeast Fisheries Science Center, 2019: Spring Bottom Trawl Surveys from 2018-2019. NOAA National Centers for Environmental Information, https://inport.nmfs.noaa.gov/inport/item/22561). Columns were added for the best matched scientific name for prey species from the Integrated Taxonomic Information System (ITIS), along with the corresponding taxonomic serial number (TSN). Data cleaning and metadata template assembly were performed in R Markdown. Further documentation can be found on GitHub, at https://github.com/WHOIGit/nes-lter-fish-diet. 
+
+# Quality Assurance
+We assured that the geographic and temporal coverage of the clean data table were within expected ranges.
