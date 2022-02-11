@@ -1,0 +1,91 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(ediutilities)
+library(glue)
+library(here)
+library(readr)
+library(EMLassemblyline)
+```
+
+```{r}
+count_table_name <- 'Concat_Count_EDI'
+meas_table_name <- 'Concat_Meas_EDI'
+```
+
+Produce assembly line templates from Excel template
+
+```{r}
+excel_template <- 'LTER_ForageFish_Info.xlsx'
+
+sheet_to_tsv(excel_template, 'ColumnHeaders',
+             glue('attributes_{count_table_name}.txt'))
+
+sheet_to_tsv(excel_template, 'ColumnHeaders',
+             glue('attributes_{meas_table_name}.txt'))
+
+sheet_to_tsv(excel_template, 'CategoricalVariables',
+             glue('catvars_{count_table_name}.txt'))
+
+sheet_to_tsv(excel_template, 'CategoricalVariables',
+             glue('catvars_{meas_table_name}.txt'))
+
+sheet_to_tsv(excel_template, 'Personnel', 'personnel.txt')
+```
+Use templates in "template core metadata" step from EML assembly line
+
+```{r}
+EMLassemblyline::template_core_metadata(path=here(), license='CCBY')
+```
+Compute spatiotemporal coverage. This requires reading the data
+
+```{r}
+count_table <- read_csv(glue('ForageFish_EDI/{count_table_name}.csv'))
+meas_table <- read_csv(glue('ForageFish_EDI/{meas_table_name}.csv'))
+
+# drop row index column from each table
+count_table <- count_table[,-1]
+meas_table <- meas_table[,-1]
+
+temp_coverage <- temporal_coverage(append(count_table$BEGIN_GMT_TOWDATE,
+                                          meas_table$BEGIN_GMT_TOWDATE))
+
+geo_coords <- geographic_coordinates(
+  append(count_table$decimalLatitude, meas_table$decimalLatitude),
+  append(count_table$decimalLongitude, meas_table$decimalLongitude)
+)
+```
+
+Produce EML
+
+```{r}
+pkg_id <- "knb-lter-nes.999.1" # dummy package ID for development
+
+dataset_title = 'Underway discrete chlorophyll and post-calibrated underway fluorometer data during NES-LTER Transect cruises, ongoing since 2019'
+
+make_eml(path=here(),
+         data.path=here('ForageFish_EDI'),
+         dataset.title=dataset_title,
+         data.table=c(glue('{count_table_name}.csv'),
+                      glue('{meas_table_name}.csv')),
+         data.table.description=c('This is a placeholder description',
+                                  'This is a placeholder description 2'),
+         data.table.name = c('This is a placeholder table name',
+                             'This is a placeholder table name 2'),
+         temporal.coverage = temp_coverage,
+         geographic.description = "NES-LTER Transect",
+         geographic.coordinates = geographic_coordinates(
+            append(count_table$decimalLatitude, meas_table$decimalLatitude),
+            append(count_table$decimalLongitude, meas_table$decimalLongitude)
+         ),
+         maintenance.description = "ongoing",
+         user.id = "NES",
+         user.domain = "LTER",
+         package.id = pkg_id)
+
+project_insert(pkg_id)
+
+```
