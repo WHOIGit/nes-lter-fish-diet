@@ -53,6 +53,15 @@ meas_table <- meas_table[,-1]
 
 # fix "MA" typo in meas_table
 meas_table$preyCount <- as.numeric(dplyr::na_if(meas_table$preyCount, "MA"))
+
+# cruise is not numeric
+count_table$cruise <- as.factor(as.character(count_table$cruise))
+meas_table$cruise <- as.factor(as.character(meas_table$cruise))
+```
+
+```{r}
+# display data locations on a map
+map_locs(count_table, xvar='decimalLongitude', yvar='decimalLatitude')
 ```
 
 ```{r}
