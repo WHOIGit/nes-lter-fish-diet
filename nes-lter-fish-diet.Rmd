@@ -82,7 +82,7 @@ Produce EML
 ```{r}
 pkg_id <- "knb-lter-nes.999.1" # dummy package ID for development
 
-dataset_title = 'Underway discrete chlorophyll and post-calibrated underway fluorometer data during NES-LTER Transect cruises, ongoing since 2019'
+dataset_title = 'Diet composition for small pelagic fishes across the Northeast U.S. Continental Shelf for NES-LTER, ongoing since 2013'
 
 make_eml(path=here(),
          #data.path=here('ForageFish_EDI'),
