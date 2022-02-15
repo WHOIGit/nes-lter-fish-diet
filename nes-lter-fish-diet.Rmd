@@ -4,11 +4,13 @@ output: html_notebook
 ---
 
 ```{r}
-library(ediutilities)
+library(ediutilities) # remotes::install_github("WHOIGit/ediutilities")
 library(glue)
 library(here)
 library(readr)
-library(EMLassemblyline)
+library(httr)
+library(dplyr)
+library(EMLassemblyline) # remotes::install_github("EDIorg/EMLassemblyline")
 ```
 
 ```{r}
@@ -41,7 +43,7 @@ Use templates in "template core metadata" step from EML assembly line
 ```{r}
 EMLassemblyline::template_core_metadata(path=here(), license='CCBY')
 ```
-Compute spatiotemporal coverage. This requires reading the data
+Read in the new data and adjust to metadata templates
 
 ```{r}
 count_table <- read_csv(here(glue('ForageFish_EDI/{count_table_name}.csv')))
@@ -57,6 +59,54 @@ meas_table$preyCount <- as.numeric(dplyr::na_if(meas_table$preyCount, "MA"))
 # cruise is not numeric
 count_table$cruise <- as.factor(as.character(count_table$cruise))
 meas_table$cruise <- as.factor(as.character(meas_table$cruise))
+```
+
+Read in previous version fish diet package and exclude/add columns as step towards row bind to new data
+Note that version 2.2 only had one table corresponding to Concat_Count
+
+```{r}
+url <- ('https://pasta.lternet.edu/package/data/eml/knb-lter-nes/2/2/ae192ab77a510ee7b8f155770a0a157b')
+httr::GET(url, write_disk(tf <- tempfile(fileext = ".csv")))
+tf
+fish_diet_2013 <- read_csv(tf, TRUE, show_col_types = FALSE) 
+
+# exclude columns no longer being used in new version of Concat_Count data table
+fish_diet_2013 <- select(fish_diet_2013, -cruise_station, -decimalLongitude_flag, -time_local, -region,
+                         -uniqueIdentifierFish, -scientificName_fish, -scientificNameID_fish,
+                         -vernacularName)
+
+# need to combine previous columns date and time_UTC into single column BEGIN_GMT_TOWDATE
+
+
+# need to transform previous column abbrevName_fish to new column FishSpecies
+# these should be categorical variables
+# since the new version removes scientificName_fish, scientificNameID_fish, and vernacularName, refer to LOOKUP table in previous GitHub repo
+# https://github.com/WHOIGit/nes-lter-fish-diet-isotope/blob/c64f49716e13b0e543be1b61066e0023dc7748b8/fish-lookup.csv
+
+
+# What used to be a single column preyTaxon in previous package is now represented by 3 columns
+# preyTaxon, preyTaxa, and preySpp matched to a 4th column Llopiz_taxa in Concat_Count data table
+# thus fill preyTaxa, preySpp, and Llopiz_taxa with NA
+fish_diet_2013$preyTaxa <- NA_character_
+fish_diet_2013$preySpp <- NA_character_
+fish_diet_2013$Llopiz_taxa <- NA_character_
+
+
+# note new data for scientificNameID_preyTaxon is missing the LSID prefix
+
+# add additional columns that are in new Concat_Count data table but not in previous version
+# these may be either not applicable (e.g., Ocularunits) or not available (e.g., scientificName_Rank)
+fish_diet_2013$preyNum <- NA_integer_
+fish_diet_2013$Ocularunits <- NA_integer_
+fish_diet_2013$Mag <- NA_integer_
+fish_diet_2013$prey_mm <- NA_integer_
+fish_diet_2013$Scope <- NA_character_
+fish_diet_2013$gutCount <- NA_integer_
+fish_diet_2013$Comments_prey <- NA_character_
+fish_diet_2013$Comments_gut <- NA_character_
+fish_diet_2013$scientificName_Rank <- NA_character_
+
+
 ```
 
 ```{r}
