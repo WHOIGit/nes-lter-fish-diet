@@ -119,6 +119,11 @@ fish_diet_2013$Comments_prey <- NA_character_
 fish_diet_2013$Comments_gut <- NA_character_
 fish_diet_2013$scientificName_Rank <- NA_character_
 
+```
+```{r}
+# add 2013 data to the count_table
+
+count_table <- rbind(fish_diet_2013, count_table)[names(count_table)]
 
 ```
 
