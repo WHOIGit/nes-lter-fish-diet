@@ -88,6 +88,14 @@ fish_diet_2013$time_UTC <- NULL
 # since the new version removes scientificName_fish, scientificNameID_fish, and vernacularName, refer to LOOKUP table in previous GitHub repo
 # https://github.com/WHOIGit/nes-lter-fish-diet-isotope/blob/c64f49716e13b0e543be1b61066e0023dc7748b8/fish-lookup.csv
 
+abbrev_lookup <- read.csv(here('fish-lookup.csv'))
+
+fish_diet_2013$FishSpecies <- plyr::mapvalues(fish_diet_2013$abbrevName_fish,
+                                              abbrev_lookup$abbrevName_fish,
+                                              abbrev_lookup$FishSpecies)
+# remove the now-unneeded abbrevName_fish column
+fish_diet_2013$abbrevName_fish <- NULL
+
 
 # What used to be a single column preyTaxon in previous package is now represented by 3 columns
 # preyTaxon, preyTaxa, and preySpp matched to a 4th column Llopiz_taxa in Concat_Count data table
