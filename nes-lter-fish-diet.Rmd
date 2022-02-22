@@ -148,7 +148,7 @@ geo_coords <- geographic_coordinates(
 Produce EML
 
 ```{r}
-pkg_id <- "knb-lter-nes.999.1" # dummy package ID for development
+pkg_id <- "knb-lter-nes.2.3"
 
 dataset_title = 'Diet composition for small pelagic fishes across the Northeast U.S. Continental Shelf for NES-LTER, ongoing since 2013'
 
