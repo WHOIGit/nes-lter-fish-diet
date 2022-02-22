@@ -1,6 +1,8 @@
 ---
-title: "R Notebook"
+title: "NES-LTER fish diet EML assembly notebook"
 output: html_notebook
+author: "Joe Futrelle, Stace Beaulieu"
+date: "February 2022"
 ---
 
 ```{r}
@@ -133,16 +135,20 @@ map_locs(count_table, xvar='decimalLongitude', yvar='decimalLatitude')
 ```
 
 ```{r}
+# write compiled / corrected tables to project directory for consumption
+# by make_eml
 write_csv(count_table, here(glue('{count_table_name}.csv')), quote="needed")
 write_csv(meas_table, here(glue('{meas_table_name}.csv')), quote="needed")
+```
 
+```{r}
+# compute temporal coverage
 temp_coverage <- temporal_coverage(append(count_table$BEGIN_GMT_TOWDATE,
                                           meas_table$BEGIN_GMT_TOWDATE))
 
-geo_coords <- geographic_coordinates(
-  append(count_table$decimalLatitude, meas_table$decimalLatitude),
-  append(count_table$decimalLongitude, meas_table$decimalLongitude)
-)
+# geographic coverage computed in EML assembly step because computing it here
+# and attempting to pass it into make_eml resulted in an error message from
+# make_eml
 ```
 
 Produce EML
