@@ -92,9 +92,10 @@ fish_diet_2013$time_UTC <- NULL
 
 abbrev_lookup <- read.csv(here('fish-lookup.csv'))
 
-fish_diet_2013$FishSpecies <- plyr::mapvalues(fish_diet_2013$abbrevName_fish,
-                                              abbrev_lookup$abbrevName_fish,
-                                              abbrev_lookup$FishSpecies)
+fish_diet_2013$FishSpecies <- map_values(fish_diet_2013$abbrevName_fish,
+                                         abbrev_lookup$abbrevName_fish,
+                                         abbrev_lookup$FishSpecies)
+
 # remove the now-unneeded abbrevName_fish column
 fish_diet_2013$abbrevName_fish <- NULL
 
