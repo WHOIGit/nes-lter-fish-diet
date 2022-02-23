@@ -87,8 +87,7 @@ fish_diet_2013$time_UTC <- NULL
 
 # need to transform previous column abbrevName_fish to new column FishSpecies
 # these should be categorical variables
-# since the new version removes scientificName_fish, scientificNameID_fish, and vernacularName, refer to LOOKUP table in previous GitHub repo
-# https://github.com/WHOIGit/nes-lter-fish-diet-isotope/blob/c64f49716e13b0e543be1b61066e0023dc7748b8/fish-lookup.csv
+# since the new version removes scientificName_fish, scientificNameID_fish, and vernacularName, refer to LOOKUP table
 
 abbrev_lookup <- read.csv(here('fish-lookup.csv'))
 
@@ -131,7 +130,10 @@ count_table <- rbind(fish_diet_2013, count_table)[names(count_table)]
 ```
 
 ```{r}
-# display data locations on a map
+# inspect summary QA for both tables and display data locations on a map
+summary(count_table)
+summary(meas_table)
+
 map_locs(count_table, xvar='decimalLongitude', yvar='decimalLatitude')
 ```
 
