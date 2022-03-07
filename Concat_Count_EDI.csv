@@ -1508,7 +1508,6 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201802,153,C_har,1,NA,Cirripedia,NA,NA,NA,NA,NA,M60,1,124,Cyprid,NA,256,2018-04-18T13:17:00Z,76,40.377098,-71.751862,Cirripedia,89433,Cirripedia,Infraclass
 201802,153,C_har,1,NA,Oithona,NA,NA,NA,NA,NA,M60,1,124,NA,NA,256,2018-04-18T13:17:00Z,76,40.377098,-71.751862,Oithona,88802,Oithona,Genus
 201802,153,C_har,1,NA,Paraeuchaeta,NA,NA,NA,NA,NA,M60,1,124,NA,NA,256,2018-04-18T13:17:00Z,76,40.377098,-71.751862,Paraeuchaeta,610024,Paraeuchaeta,Genus
-201802,153,C_har,1,NA,Parasite,NA,NA,NA,NA,NA,M60,NA,1,flatworm,NA,256,2018-04-18T13:17:00Z,76,40.377098,-71.751862,Parasite,202423,Animalia,Kingdom
 201802,154,C_har,3,NA,Chaetognatha,NA,NA,NA,NA,NA,M60,342,379,NA,NA,239,2018-04-18T17:39:00Z,62,40.244742,-72.239772,Chaetognatha,158650,Chaetognatha,Phylum
 201802,154,C_har,3,NA,Hyperiidae,Themisto,NA,NA,NA,NA,M60,2,379,NA,NA,239,2018-04-18T17:39:00Z,62,40.244742,-72.239772,Themisto,95167,Themisto,Genus
 201802,154,C_har,3,NA,Calanus,NA,NA,NA,NA,NA,M60,2,379,NA,NA,239,2018-04-18T17:39:00Z,62,40.244742,-72.239772,Calanus,85263,Calanus,Genus
@@ -2013,8 +2012,6 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201802,206,A_pse,2,NA,Decapoda,Penaeidae,NA,NA,NA,NA,MZ12,2,284,NA,NA,248,2018-05-01T21:31:00Z,47,40.952628,-70.484803,Penaeidae,95602,Penaeidae,Family
 201802,206,A_pse,2,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,1,284,NA,NA,248,2018-05-01T21:31:00Z,47,40.952628,-70.484803,Chaetognatha,158650,Chaetognatha,Phylum
 201802,206,A_pse,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,284,NA,NA,248,2018-05-01T21:31:00Z,47,40.952628,-70.484803,CopepodDigested,85257,Copepoda,NA
-201802,206,A_pse,2,NA,Parasite,NA,NA,NA,NA,10.7,MZ12,NA,284,worm,NA,248,2018-05-01T21:31:00Z,47,40.952628,-70.484803,Parasite,202423,Animalia,Kingdom
-201802,206,A_pse,2,NA,Parasite,NA,NA,NA,NA,15.6,MZ12,NA,284,worm,NA,248,2018-05-01T21:31:00Z,47,40.952628,-70.484803,Parasite,202423,Animalia,Kingdom
 201802,141,A_dub,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,545,NA,NA,148,2018-04-15T00:40:00Z,56,40.931383,-71.544113,UnknownSoft,202423,Animalia,Kingdom
 201802,141,A_dub,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,20,545,NA,NA,148,2018-04-15T00:40:00Z,56,40.931383,-71.544113,Appendicularia,159664,Appendicularia,Class
 201802,141,A_dub,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,71,545,NA,NA,148,2018-04-15T00:40:00Z,56,40.931383,-71.544113,CalanoidSmall,85258,Calanoida,NA
@@ -2051,8 +2048,6 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201802,155,S_sco,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1183,4193,NA,NA,278,2018-04-18T19:57:00Z,69,40.193282,-72.167367,UnknownSoft,202423,Animalia,Kingdom
 201802,155,S_sco,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,1,4193,NA,NA,278,2018-04-18T19:57:00Z,69,40.193282,-72.167367,Mysida,89855,Mysida,Order
 201802,155,S_sco,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,76,4193,NA,NA,278,2018-04-18T19:57:00Z,69,40.193282,-72.167367,CopepodDigested,85257,Copepoda,NA
-201802,155,S_sco,1,NA,Parasite,NA,NA,NA,NA,17.2,MZ12,NA,4193,roundworm,NA,278,2018-04-18T19:57:00Z,69,40.193282,-72.167367,Parasite,202423,Animalia,Kingdom
-201802,155,S_sco,1,NA,Parasite,NA,NA,NA,NA,13.9,MZ12,NA,4193,roundworm,NA,278,2018-04-18T19:57:00Z,69,40.193282,-72.167367,Parasite,202423,Animalia,Kingdom
 201802,163,P_tri,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,77,266,NA,NA,164,2018-04-19T20:49:00Z,91,40.341258,-70.497097,Appendicularia,159664,Appendicularia,Class
 201802,163,P_tri,2,NA,Sapphirinidae,Sapphirina,NA,NA,NA,NA,MZ12,4,266,NA,NA,164,2018-04-19T20:49:00Z,91,40.341258,-70.497097,Sapphirina,88831,Sapphirina,Genus
 201802,163,P_tri,2,NA,Pleuromamma,NA,NA,NA,NA,NA,MZ12,1,266,NA,NA,164,2018-04-19T20:49:00Z,91,40.341258,-70.497097,Pleuromamma,85751,Pleuromamma,Genus
@@ -2111,282 +2106,221 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201802,154,S_sco,1,NA,Metridia,NA,NA,NA,NA,NA,M205C,1,235,juvenile,NA,281,2018-04-18T17:39:00Z,62,40.244742,-72.239772,Metridia,85734,Metridia,Genus
 201802,154,S_sco,1,NA,Ostracoda,NA,NA,NA,NA,NA,M205C,4,235,NA,NA,281,2018-04-18T17:39:00Z,62,40.244742,-72.239772,Ostracoda,84195,Ostracoda,Class
 201802,154,S_sco,1,NA,Bivalvia,NA,NA,NA,NA,NA,M205C,1,235,Veliger,NA,281,2018-04-18T17:39:00Z,62,40.244742,-72.239772,Bivalvia,79118,Bivalvia,Class
-201804,181,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,139,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
-201804,181,P. triacanthus,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,104,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
-201804,195,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,149,2018-09-29T14:35:00Z,81,40.30737,-69.391793,UnknownSoft,202423,Animalia,Kingdom
-201804,195,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,5,NA,NA,156,2018-09-29T14:35:00Z,81,40.30737,-69.391793,UnknownSoft,202423,Animalia,Kingdom
-201804,215,C. harengus,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,5,7,NA,NA,252,2018-10-01T19:50:00Z,82,41.364362,-69.326877,CopepodDigested,85257,Copepoda,NA
-201804,215,C. harengus,1,NA,CopepodUnknown,Calanoida,NA,NA,NA,NA,MZ12,2,7,NA,"Whole gut in vial, other vials contain only prey, was this put in by mistake, are these all the prey items?",252,2018-10-01T19:50:00Z,82,41.364362,-69.326877,Calanoida,85258,Calanoida,Order
-201804,215,C. harengus,2,NA,CopepodUnknown,Calanoida,NA,NA,NA,NA,MZ12,1,1,NA,NA,258,2018-10-01T19:50:00Z,82,41.364362,-69.326877,Calanoida,85258,Calanoida,Order
-201804,181,P. triacanthus,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,NA,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
-201804,181,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,NA,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
-201804,160,P. triacanthus,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,2,NA,"A bunch of different sized fish scales also in vial, cannot tell if they were from gut, probably not; they were too big.",107,2018-09-20T08:44:00Z,64,40.641998,-71.43969,CopepodDigested,85257,Copepoda,NA
-201804,178,P. triacanthus,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,70,2018-09-27T12:36:00Z,42,40.788413,-70.17671,Appendicularia,159664,Appendicularia,Class
-201804,178,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,5,NA,NA,70,2018-09-27T12:36:00Z,42,40.788413,-70.17671,UnknownSoft,202423,Animalia,Kingdom
-201804,169,A. aestivalis,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,15,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,UnknownSoft,202423,Animalia,Kingdom
-201804,169,A. aestivalis,1,NA,UnknownSoft,Thaliacea,NA,NA,NA,NA,MZ12,75,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Thaliacea,159632,Thaliacea,Class
-201804,169,A. aestivalis,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,CopepodDigested,85257,Copepoda,NA
-201804,169,A. aestivalis,1,NA,Gammaridea,NA,NA,NA,NA,NA,MZ12,1,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Gammaridea,93295,Gammaridea,Suborder
-201804,118,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,3,NA,NA,104,2018-09-16T04:41:00Z,59,39.730647,-72.99765,UnknownSoft,202423,Animalia,Kingdom
-201804,111,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,100,2018-09-15T10:47:00Z,58,40.510068,-72.192392,Empty,NA,NA,NA
-201804,120,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,4,NA,NA,125,2018-09-16T10:17:00Z,42,39.7229,-73.27549,UnknownSoft,202423,Animalia,Kingdom
-201804,163,A. pseudoharengus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,172,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
-201804,163,A. pseudoharengus,2,NA,CopepodDigested,Candacia,NA,NA,NA,NA,MZ12,4,5,NA,NA,172,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Candacia,86020,Candacia,Genus
-201804,114,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,102,2018-09-15T18:48:00Z,76,39.859963,-72.444147,UnknownSoft,202423,Animalia,Kingdom
-201804,145,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,10,NA,"4 whole animals measured, some additional parts found as well difficult to tell exactly how many that would be, minimum of 1.",161,2018-09-18T21:40:00Z,126,39.991123,-71.429225,UnknownSoft,202423,Animalia,Kingdom
-201804,145,P. triacanthus,1,NA,Polychaeta,Tomopteridae,Tomopteris,NA,NA,NA,MZ12,5,10,NA,"4 whole animals measured, some additional parts found as well difficult to tell exactly how many that would be, minimum of 1.",161,2018-09-18T21:40:00Z,126,39.991123,-71.429225,Tomopteris,65460,Tomopteris,Genus
-201804,105,A. dubius,3,NA,Cladocera,Penilia,Penilia avirostris,NA,NA,NA,MZ12,10,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Penilia avirostris,83836,Penilia avirostris,Species
-201804,105,A. dubius,3,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,77,Juvenile,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,3,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,18,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,3,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,31,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
-201804,105,A. dubius,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,6,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CalanoidSmall,85258,Calanoida,NA
-201804,105,A. dubius,3,NA,Tortanus,Tortanus discaudatus,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Tortanus discaudatus,86100,Tortanus discaudatus,Species
-201804,105,A. dubius,3,NA,Metridia,NA,NA,NA,NA,NA,MZ12,2,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Metridia,85734,Metridia,Genus
-201804,105,A. dubius,3,NA,Cladocera,Podon,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Podon,83964,Podon,Genus
-201804,105,A. dubius,3,NA,Calanus,Calanus,NA,NA,NA,NA,MZ12,3,77,C5,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Calanus,85263,Calanus,Genus
-201804,105,A. dubius,3,NA,Amphipoda,Hyperiidae,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Hyperiidae,95108,Hyperiidae,Family
-201804,105,A. dubius,3,NA,Decapoda,NA,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Decapoda,95599,Decopoda,Order
-201804,105,A. dubius,3,NA,Candacia,NA,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Candacia,86020,Candacia,Genus
-201804,161,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,17,20,NA,NA,107,2018-09-20T11:58:00Z,66,40.620138,-71.155052,UnknownSoft,202423,Animalia,Kingdom
-201804,161,P. triacanthus,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,3,20,NA,NA,107,2018-09-20T11:58:00Z,66,40.620138,-71.155052,Hyperiidae,95108,Hyperiidae,Family
-201804,161,P. triacanthus,1,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,NA,20,NA,NA,107,2018-09-20T11:58:00Z,66,40.620138,-71.155052,Temora,85874,Temora,Genus
-201804,105,A. dubius,4,NA,Cladocera,NA,NA,NA,NA,NA,MZ12,4,6,NA,NA,157,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Cladocera,83832,Cladocera,Suborder
-201804,105,A. dubius,4,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,6,NA,NA,157,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,4,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,157,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
-201804,105,A. dubius,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,26,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
-201804,105,A. dubius,2,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,60,Veliger,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Bivalvia,79118,Bivalvia,Class
-201804,105,A. dubius,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,8,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CalanoidSmall,85258,Calanoida,NA
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,22,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.5,1,1.5,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.2,1,1.2,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.1,1,1.1,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.3,1,1.3,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.2,1,1.2,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1,1,1,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.3,1,1.3,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.3,1,1.3,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1.2,1,1.2,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,CalanoidSmall,Centropages,NA,1,1,1,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,2,NA,Cladocera,Penilia,NA,NA,NA,NA,MZ12,1,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Penilia,83835,Penilia,Genus
-201804,105,A. dubius,2,NA,Candacia,NA,NA,NA,NA,NA,MZ12,2,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Candacia,86020,Candacia,Genus
-201804,105,A. dubius,2,NA,Candacia,NA,NA,2.3,1,2.3,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Candacia,86020,Candacia,Genus
-201804,105,A. dubius,2,NA,Candacia,NA,NA,2,1,2,MZ12,NA,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Candacia,86020,Candacia,Genus
-201804,145,P. triacanthus,2,NA,Polychaeta,Tomopteridae,Tomopteris,NA,NA,NA,MZ12,8,13,NA,NA,62,2018-09-18T21:40:00Z,126,39.991123,-71.429225,Tomopteris,65460,Tomopteris,Genus
-201804,145,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,13,NA,NA,62,2018-09-18T21:40:00Z,126,39.991123,-71.429225,UnknownSoft,202423,Animalia,Kingdom
-201804,105,P. triacanthus,2,NA,UnknownSoft,Thaliacea,NA,NA,NA,NA,MZ12,3,5,NA,NA,107,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Thaliacea,159632,Thaliacea,Class
-201804,105,P. triacanthus,2,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,2,5,NA,NA,107,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
-201804,105,A. dubius,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,159,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
-201804,105,A. dubius,5,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,5,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
-201804,105,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,9,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,UnknownSoft,202423,Animalia,Kingdom
-201804,105,P. triacanthus,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,3,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
-201804,105,A. dubius,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,159,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
-201804,105,A. dubius,5,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
-201804,105,A. dubius,5,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
-201804,105,P. triacanthus,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,3,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
-201804,105,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,9,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,UnknownSoft,202423,Animalia,Kingdom
-201804,160,P. triacanthus,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Centropages,85761,Centropages,Genus
-201804,160,P. triacanthus,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Appendicularia,159664,Appendicularia,Class
-201804,160,P. triacanthus,2,NA,Appendicularia,NA,NA,1.6,1,1.6,MZ12,NA,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Appendicularia,159664,Appendicularia,Class
-201804,160,P. triacanthus,2,NA,Appendicularia,NA,NA,1.6,1,1.6,MZ12,NA,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Appendicularia,159664,Appendicularia,Class
-201804,160,P. triacanthus,2,NA,Appendicularia,NA,NA,1.6,1,1.6,MZ12,NA,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Appendicularia,159664,Appendicularia,Class
-201804,160,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,3,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,UnknownSoft,202423,Animalia,Kingdom
-201804,160,P. triacanthus,2,NA,CalanoidSmall,Temora,NA,2.4,2,1.152,MZ12,NA,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Temora,85874,Temora,Genus
-201804,160,P. triacanthus,2,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,1,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Temora,85874,Temora,Genus
-201804,178,P. triacanthus,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,66,2018-09-27T12:36:00Z,42,40.788413,-70.17671,Empty,NA,NA,NA
-201804,115,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,93,2018-09-15T21:47:00Z,75,39.65208,-72.703047,UnknownSoft,202423,Animalia,Kingdom
-201804,115,P. triacanthus,1,NA,Hyperiidae,Hyperia,NA,NA,NA,NA,MZ12,4,4,NA,NA,98,2018-09-15T21:47:00Z,75,39.65208,-72.703047,Hyperia,95109,Hyperia,Genus
-201804,152,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,1,NA,NA,120,2018-09-19T14:29:00Z,67,40.571692,-71.792797,UnknownSoft,202423,Animalia,Kingdom
-201804,197,P. triacanthus,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,1,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,FishEgg,914179,Gnathostomata,NA
-201804,197,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,13,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,UnknownSoft,202423,Animalia,Kingdom
-201804,197,P. triacanthus,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,5,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,Centropages,85761,Centropages,Genus
-201804,197,P. triacanthus,1,NA,CalanoidSmall,NA,NA,4.4,1,4.4,MZ12,NA,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,CalanoidSmall,85258,Calanoida,NA
-201804,197,P. triacanthus,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,CalanoidSmall,85258,Calanoida,NA
-201804,197,P. triacanthus,1,NA,Cladocera,Podon,NA,NA,NA,NA,MZ12,1,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,Podon,83964,Podon,Genus
-201804,163,A. pseudoharengus,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,173,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownOther,202423,Animalia,Kingdom
-201804,163,A. pseudoharengus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,3,5,NA,NA,173,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
-201804,163,A. pseudoharengus,1,NA,CopepodUnknown,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,173,2018-09-20T16:00:00Z,59,40.843713,-71.063218,CopepodUnknown,85257,Copepoda,NA
-201804,215,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,5,NA,NA,159,2018-10-01T19:50:00Z,82,41.364362,-69.326877,UnknownSoft,202423,Animalia,Kingdom
-201804,215,C. harengus,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,242,2018-10-01T19:50:00Z,82,41.364362,-69.326877,Empty,NA,NA,NA
-201804,111,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,6,NA,NA,100,2018-09-15T10:47:00Z,58,40.510068,-72.192392,UnknownSoft,202423,Animalia,Kingdom
-201804,111,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,100,2018-09-15T10:47:00Z,58,40.510068,-72.192392,Hyperiidae,95108,Hyperiidae,Family
-201804,118,P. triacanthus,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,110,2018-09-16T04:41:00Z,59,39.730647,-72.99765,Appendicularia,159664,Appendicularia,Class
-201804,118,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,5,NA,NA,110,2018-09-16T04:41:00Z,59,39.730647,-72.99765,UnknownSoft,202423,Animalia,Kingdom
-201804,174,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,15,19,NA,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,UnknownSoft,202423,Animalia,Kingdom
-201804,174,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,19,NA,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
-201804,174,P. triacanthus,2,NA,Sapphirinidae,Sapphirina,NA,NA,NA,NA,MZ12,1,19,NA,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Sapphirina,88831,Sapphirina,Genus
-201804,174,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,19,Juvenile,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
-201804,174,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.4,1,1.4,MZ12,NA,19,Juvenile,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
-201804,209,P. triacanthus,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,5,5,NA,NA,154,2018-10-01T02:06:00Z,62,41.214598,-68.558077,Mysida,89855,Mysida,Order
-201804,187,P. triacanthus,1,NA,UnknownSoft,Thaliacea,NA,NA,NA,NA,MZ12,29,32,NA,NA,145,2018-09-28T17:03:00Z,102,40.185958,-69.968825,Thaliacea,159632,Thaliacea,Class
-201804,187,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,32,NA,NA,145,2018-09-28T17:03:00Z,102,40.185958,-69.968825,UnknownSoft,202423,Animalia,Kingdom
-201804,187,P. triacanthus,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,32,NA,NA,145,2018-09-28T17:03:00Z,102,40.185958,-69.968825,Appendicularia,159664,Appendicularia,Class
-201804,151,P. triacanthus,2*,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,3,10,NA,Star after indv. numnber,93,2018-09-19T12:25:00Z,76,40.376612,-71.752762,CopepodDigested,85257,Copepoda,NA
-201804,151,P. triacanthus,2*,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,10,NA,Star after indv. numnber,93,2018-09-19T12:25:00Z,76,40.376612,-71.752762,UnknownSoft,202423,Animalia,Kingdom
-201804,151,P. triacanthus,2*,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,2,10,NA,Star after indv. numnber,93,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Appendicularia,159664,Appendicularia,Class
-201804,151,P. triacanthus,1*,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,6,9,NA,Star after indv. numnber,94,2018-09-19T12:25:00Z,76,40.376612,-71.752762,UnknownSoft,202423,Animalia,Kingdom
-201804,151,P. triacanthus,1*,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,9,NA,Star after indv. numnber,94,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Hyperiidae,95108,Hyperiidae,Family
-201804,151,P. triacanthus,1*,NA,Euphausiidae,NA,NA,NA,NA,NA,MZ12,1,9,Furcilia,Star after indv. numnber,94,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Euphausiidae,95500,Euphausiidae,Family
-201804,161,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,114,2018-09-20T11:58:00Z,66,40.620138,-71.155052,Hyperiidae,95108,Hyperiidae,Family
-201804,161,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,114,2018-09-20T11:58:00Z,66,40.620138,-71.155052,UnknownSoft,202423,Animalia,Kingdom
-201804,114,P. triacanthus,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,11,NA,NA,98,2018-09-15T18:48:00Z,76,39.859963,-72.444147,CopepodDigested,85257,Copepoda,NA
-201804,114,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,8,11,NA,NA,98,2018-09-15T18:48:00Z,76,39.859963,-72.444147,UnknownSoft,202423,Animalia,Kingdom
-201804,114,P. triacanthus,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,11,NA,NA,98,2018-09-15T18:48:00Z,76,39.859963,-72.444147,UnknownOther,202423,Animalia,Kingdom
-201804,120,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,81,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,UnknownSoft,202423,Animalia,Kingdom
-201804,120,P. triacanthus,2,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,UnknownOther,202423,Animalia,Kingdom
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,11,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.6,1,1.6,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.9,1,1.9,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.6,1,1.6,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.8,1,1.8,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.4,1,1.4,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,3,1,3,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.4,1,1.4,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,2.3,1,2.3,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,1.7,2,0.816,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,120,P. triacanthus,2,NA,Hyperiidae,NA,NA,2.3,2,1.104,MZ12,NA,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
-201804,152,P. triacanthus,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,111,2018-09-19T14:29:00Z,67,40.571692,-71.792797,Empty,NA,NA,NA
-201804,188,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,154,2018-09-28T19:52:00Z,154,40.035663,-69.995305,UnknownSoft,202423,Animalia,Kingdom
-201804,191,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,41,48,Scales present in gut,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,UnknownSoft,202423,Animalia,Kingdom
-201804,191,P. triacanthus,1,NA,Gammaridea,NA,NA,NA,NA,NA,MZ12,1,48,NA,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,Gammaridea,93295,Gammaridea,Suborder
-201804,191,P. triacanthus,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,4,48,NA,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,Appendicularia,159664,Appendicularia,Class
-201804,191,P. triacanthus,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,48,NA,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,Hyperiidae,95108,Hyperiidae,Family
-201804,116,P. triacanthus,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,2,14,worm,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Parasite,202423,Animalia,Kingdom
-201804,116,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,12,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,UnknownSoft,202423,Animalia,Kingdom
-201804,164,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,10,10,NA,NA,132,2018-09-20T18:33:00Z,48,41.004027,-71.344045,UnknownSoft,202423,Animalia,Kingdom
-201804,193,P. triacanthus,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,2,2,NA,>12 unknown orb-like material,160,2018-09-29T10:22:00Z,100,40.282908,-69.034442,FishEgg,914179,Gnathostomata,NA
-201804,184,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,154,2018-09-28T08:08:00Z,135,40.11973,-70.735222,Empty,NA,NA,NA
-201804,112,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,1,NA,"internal label initialy incorrect; I chnaged it to be the correct label, but left the tape on the outside; ball of plastic fibres present",104,2018-09-15T15:10:00Z,81,39.930375,-72.322143,UnknownSoft,202423,Animalia,Kingdom
-201804,154,P. triacanthus,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,5,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,CopepodDigested,85257,Copepoda,NA
-201804,154,P. triacanthus,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,2,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,CalanoidSmall,85258,Calanoida,NA
-201804,154,P. triacanthus,2,NA,CopepodUnknown,NA,NA,NA,NA,NA,MZ12,1,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,CopepodUnknown,85257,Copepoda,NA
-201804,154,P. triacanthus,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,Appendicularia,159664,Appendicularia,Class
-201804,154,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,10,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,UnknownSoft,202423,Animalia,Kingdom
-201804,154,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,Hyperiidae,95108,Hyperiidae,Family
-201804,144,P. triacanthus,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,1,1,NA,NA,134,2018-09-18T18:47:00Z,116,39.936108,-71.854188,Metridia,85734,Metridia,Genus
-201804,107,A. dubius,5,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,1,NA,NA,142,2018-09-15T02:33:00Z,34,40.722123,-72.49973,UnknownSoft,202423,Animalia,Kingdom
-201804,164,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,11,11,NA,NA,140,2018-09-20T18:33:00Z,48,41.004027,-71.344045,UnknownSoft,202423,Animalia,Kingdom
-201804,151,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,6,NA,NA,147,2018-09-19T12:25:00Z,76,40.376612,-71.752762,UnknownSoft,202423,Animalia,Kingdom
-201804,151,P. triacanthus,2,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,147,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Chaetognatha,158650,Chaetognatha,Phylum
-201804,140,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,9,9,NA,NA,145,2018-09-18T07:33:00Z,148,39.294983,-72.482768,UnknownSoft,202423,Animalia,Kingdom
-201804,107,A. dubius,4,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,147,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
-201804,107,A. dubius,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,174,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
-201804,174,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,8,15,NA,NA,160,2018-09-27T01:18:00Z,50,40.932672,-70.513423,UnknownSoft,202423,Animalia,Kingdom
-201804,174,P. triacanthus,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,15,NA,NA,160,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
-201804,174,P. triacanthus,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,6,15,NA,NA,160,2018-09-27T01:18:00Z,50,40.932672,-70.513423,CopepodDigested,85257,Copepoda,NA
-201804,140,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,3,3,NA,chunk of fish tissue in vial,151,2018-09-18T07:33:00Z,148,39.294983,-72.482768,UnknownSoft,202423,Animalia,Kingdom
-201804,144,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,3,NA,chunk of fish tissue in vial,132,2018-09-18T18:47:00Z,116,39.936108,-71.854188,UnknownSoft,202423,Animalia,Kingdom
-201804,144,P. triacanthus,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,3,NA,chunk of fish tissue in vial,132,2018-09-18T18:47:00Z,116,39.936108,-71.854188,CopepodDigested,85257,Copepoda,NA
-201804,169,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,297,302,NA,NA,139,2018-09-26T08:22:00Z,43,41.260153,-71.16017,UnknownSoft,202423,Animalia,Kingdom
-201804,169,P. triacanthus,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,302,NA,NA,139,2018-09-26T08:22:00Z,43,41.260153,-71.16017,CopepodDigested,85257,Copepoda,NA
-201804,169,P. triacanthus,2,NA,Sapphirinidae,NA,NA,NA,NA,NA,MZ12,4,302,NA,NA,139,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Sapphirinidae,88830,Sapphirinidae,Family
-201804,193,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,28,28,NA,NA,159,2018-09-29T10:22:00Z,100,40.282908,-69.034442,UnknownSoft,202423,Animalia,Kingdom
-201804,209,A. pseudoharengus,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,50,527,Digested,NA,203,2018-10-01T02:06:00Z,62,41.214598,-68.558077,Hyperiidae,95108,Hyperiidae,Family
-201804,209,A. pseudoharengus,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,477,527,Digested,NA,203,2018-10-01T02:06:00Z,62,41.214598,-68.558077,Mysida,89855,Mysida,Order
-201804,116,P. triacanthus,2,NA,Candacia,NA,NA,NA,NA,NA,MZ12,5,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Candacia,86020,Candacia,Genus
-201804,116,P. triacanthus,2,NA,CopepodUnknown,NA,NA,NA,NA,NA,MZ12,1,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,CopepodUnknown,85257,Copepoda,NA
-201804,116,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,6,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,UnknownSoft,202423,Animalia,Kingdom
-201804,116,P. triacanthus,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Centropages,85761,Centropages,Genus
-201804,116,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,14,Digested,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Hyperiidae,95108,Hyperiidae,Family
-201804,150,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,140,2018-09-19T10:11:00Z,88,40.157032,-71.573265,Empty,NA,NA,NA
-201804,245,A. pseudoharengus,2,NA,Mysida,NA,NA,NA,NA,NA,MZ12,43,146,Digested,NA,221,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Mysida,89855,Mysida,Order
-201804,245,A. pseudoharengus,2,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,102,146,NA,NA,221,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,1,146,worm,NA,221,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Parasite,202423,Animalia,Kingdom
-201804,107,A. dubius,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,154,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
-201804,154,P. triacanthus,1,NA,Candacia,NA,NA,NA,NA,NA,MZ12,2,3,NA,NA,106,2018-09-19T18:16:00Z,54,40.625518,-71.959812,Candacia,86020,Candacia,Genus
-201804,154,P. triacanthus,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,3,DIgested,NA,106,2018-09-19T18:16:00Z,54,40.625518,-71.959812,UnknownOther,202423,Animalia,Kingdom
-201804,184,P. triacanthus,2,NA,Decapoda,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,160,2018-09-28T08:08:00Z,135,40.11973,-70.735222,Decapoda,95599,Decopoda,Order
-201804,184,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,6,NA,NA,160,2018-09-28T08:08:00Z,135,40.11973,-70.735222,UnknownSoft,202423,Animalia,Kingdom
-201804,218,S. scombrus,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,45,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CalanoidSmall,85258,Calanoida,NA
-201804,218,S. scombrus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,193,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,UnknownSoft,202423,Animalia,Kingdom
-201804,218,S. scombrus,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,8,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CopepodDigested,85257,Copepoda,NA
-201804,218,S. scombrus,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,14,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Metridia,85734,Metridia,Genus
-201804,218,S. scombrus,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Appendicularia,159664,Appendicularia,Class
-201804,218,S. scombrus,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,5,290,worm,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Parasite,202423,Animalia,Kingdom
-201804,218,S. scombrus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,17,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Hyperiidae,95108,Hyperiidae,Family
-201804,218,S. scombrus,2,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,UnknownOther,202423,Animalia,Kingdom
-201804,218,S. scombrus,2,NA,Candacia,NA,NA,NA,NA,NA,MZ12,3,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Candacia,86020,Candacia,Genus
-201804,218,S. scombrus,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,1,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Calanus,85263,Calanus,Genus
-201804,218,S. scombrus,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Centropages,85761,Centropages,Genus
-201804,107,A. dubius,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,159,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
-201804,149,P. triacanthus,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,1,NA,star on station number,156,2018-09-19T07:53:00Z,121,40.12504,-71.262995,UnknownOther,202423,Animalia,Kingdom
-201804,NA,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,6,NA,NA,158,NA,NA,NA,NA,UnknownSoft,202423,Animalia,Kingdom
-201804,NA,P. triacanthus,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,158,NA,NA,NA,NA,Mysida,89855,Mysida,Order
-201804,NA,P. triacanthus,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,158,NA,NA,NA,NA,UnknownOther,202423,Animalia,Kingdom
-201804,218,S. scombrus,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,254,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Empty,NA,NA,NA
-201804,245,A. pseudoharengus,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,69,258,NA,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Mysida,89855,Mysida,Order
-201804,245,A. pseudoharengus,1,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,187,258,NA,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,258,NA,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,CalanoidSmall,85258,Calanoida,NA
-201804,245,A. pseudoharengus,1,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,258,Veliger,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Bivalvia,79118,Bivalvia,Class
-201804,106,A. dubius,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,147,2018-09-14T23:58:00Z,45,40.543672,-72.499072,Empty,NA,NA,NA
-201804,117,P. triacanthus,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,95,2018-09-16T02:58:00Z,67,39.624602,-73.034733,Hyperiidae,95108,Hyperiidae,Family
-201804,117,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,95,2018-09-16T02:58:00Z,67,39.624602,-73.034733,UnknownSoft,202423,Animalia,Kingdom
-201804,149,P. triacanthus,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,151,2018-09-19T07:53:00Z,121,40.12504,-71.262995,Empty,NA,NA,NA
-201804,218,S. scombrus,1,NA,Candacia,NA,NA,NA,NA,NA,MZ12,12,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Candacia,86020,Candacia,Genus
-201804,218,S. scombrus,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,15,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CalanoidSmall,85258,Calanoida,NA
-201804,218,S. scombrus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,725,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,UnknownSoft,202423,Animalia,Kingdom
-201804,218,S. scombrus,1,NA,Metridia,NA,NA,NA,NA,NA,MZ12,51,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Metridia,85734,Metridia,Genus
-201804,218,S. scombrus,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,15,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Hyperiidae,95108,Hyperiidae,Family
-201804,218,S. scombrus,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,5,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CopepodDigested,85257,Copepoda,NA
-201804,218,S. scombrus,1,NA,Tortanus,NA,NA,NA,NA,NA,MZ12,1,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Tortanus,86099,Tortanus,Genus
-201804,218,S. scombrus,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Centropages,85761,Centropages,Genus
-201804,218,S. scombrus,1,NA,Egg,NA,NA,NA,NA,NA,MZ12,1,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Egg,202423,Animalia,Kingdom
-201804,NA,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,9,NA,NA,152,NA,NA,NA,NA,UnknownSoft,202423,Animalia,Kingdom
-201804,NA,P. triacanthus,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,7,9,NA,NA,152,NA,NA,NA,NA,CopepodDigested,85257,Copepoda,NA
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,30,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.6,1.25,0.462,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.7,1.25,0.539,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.5,1.25,0.385,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.8,1.25,0.616,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.8,1.25,0.616,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.8,1.25,0.616,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.7,1.25,0.539,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.8,1.25,0.616,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.9,1.25,0.693,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Egg,Animalia,NA,0.9,1.25,0.693,MZ12,NA,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
-201804,245,A. pseudoharengus,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,8,38,Too digested to measure,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Hyperiidae,95108,Hyperiidae,Family
-201804,163,P. triacanthus,2,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,3,5,Digested,NA,108,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownOther,202423,Animalia,Kingdom
-201804,163,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,5,NA,NA,108,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
-201804,163,P. triacanthus,1,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,2,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Chaetognatha,158650,Chaetognatha,Phylum
-201804,163,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
-201804,163,P. triacanthus,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Hyperiidae,95108,Hyperiidae,Family
-201804,163,P. triacanthus,1,NA,Hyperiidae,NA,NA,2,5,0.38,MZ12,NA,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Hyperiidae,95108,Hyperiidae,Family
-201804,117,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,96,2018-09-16T02:58:00Z,67,39.624602,-73.034733,Empty,NA,NA,NA
-201804,159,P. triacanthus,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,4,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Appendicularia,159664,Appendicularia,Class
-201804,159,P. triacanthus,2,NA,Appendicularia,NA,NA,1.2,1.25,0.924,MZ12,NA,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Appendicularia,159664,Appendicularia,Class
-201804,159,P. triacanthus,2,NA,Appendicularia,NA,NA,1.5,1.25,1.155,MZ12,NA,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Appendicularia,159664,Appendicularia,Class
-201804,159,P. triacanthus,2,NA,Appendicularia,NA,NA,1.6,1.25,1.232,MZ12,NA,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Appendicularia,159664,Appendicularia,Class
-201804,159,P. triacanthus,2,NA,Appendicularia,NA,NA,3,1.25,2.31,MZ12,NA,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Appendicularia,159664,Appendicularia,Class
-201804,159,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,779,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,UnknownSoft,202423,Animalia,Kingdom
-201804,159,P. triacanthus,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,3,790,flat worm,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Parasite,202423,Animalia,Kingdom
-201804,159,P. triacanthus,2,NA,Sapphirinidae,NA,NA,NA,NA,NA,MZ12,3,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,2,NA,Sapphirinidae,NA,NA,3.4,1.25,2.618,MZ12,NA,790,Total length,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,2,NA,Sapphirinidae,NA,NA,2.9,1.25,2.233,MZ12,NA,790,Total length,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,2,NA,Sapphirinidae,NA,NA,1.8,1.25,1.386,MZ12,NA,790,Total length,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,CalanoidSmall,85258,Calanoida,NA
-201804,159,P. triacanthus,2,NA,CalanoidSmall,NA,NA,1.6,1.25,1.232,MZ12,NA,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,CalanoidSmall,85258,Calanoida,NA
-201804,138,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,4,NA,NA,140,2018-09-18T02:45:00Z,120,39.284958,-72.708032,UnknownSoft,202423,Animalia,Kingdom
-201804,151,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,137,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Empty,NA,NA,NA
-201804,169,P. triacanthus,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,161,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Empty,NA,NA,NA
-201804,194,P. triacanthus,1,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,1,22,NA,NA,150,2018-09-29T12:11:00Z,99,40.218353,-69.190136999999993,Animalia,202423,Animalia,Kingdom
-201804,194,P. triacanthus,1,NA,Egg,Animalia,NA,0.4,1.25,0.308,MZ12,NA,22,NA,NA,150,2018-09-29T12:11:00Z,99,40.218353,-69.190136999999993,Animalia,202423,Animalia,Kingdom
-201804,194,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,21,22,NA,NA,150,2018-09-29T12:11:00Z,99,40.218353,-69.190136999999993,UnknownSoft,202423,Animalia,Kingdom
-201804,138,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,11,11,NA,NA,149,2018-09-18T02:45:00Z,120,39.284958,-72.708032,UnknownSoft,202423,Animalia,Kingdom
-201804,150,P. triacanthus,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,check that this station was done on this cruise.,150,2018-09-19T10:11:00Z,88,40.157032,-71.573265,Empty,NA,NA,NA
-201804,188,P. triacanthus,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,10,11,NA,NA,144,2018-09-28T19:52:00Z,154,40.035663,-69.995305,UnknownSoft,202423,Animalia,Kingdom
-201804,188,P. triacanthus,2,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,11,Veliger,NA,144,2018-09-28T19:52:00Z,154,40.035663,-69.995305,Bivalvia,79118,Bivalvia,Class
-201804,188,P. triacanthus,2,NA,Bivalvia,NA,NA,1.7,1.25,1.309,MZ12,NA,11,Veliger,NA,144,2018-09-28T19:52:00Z,154,40.035663,-69.995305,Bivalvia,79118,Bivalvia,Class
-201804,159,P. triacanthus,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,754,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,UnknownSoft,202423,Animalia,Kingdom
-201804,159,P. triacanthus,1,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,760,Veliger,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Bivalvia,79118,Bivalvia,Class
-201804,159,P. triacanthus,1,NA,Bivalvia,NA,NA,0.5,1.25,0.385,MZ12,NA,760,Veliger,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Bivalvia,79118,Bivalvia,Class
-201804,159,P. triacanthus,1,NA,Sapphirinidae,NA,NA,NA,NA,NA,MZ12,3,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,1,NA,Sapphirinidae,NA,NA,4.2,1.25,3.234,MZ12,NA,760,Total length,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,1,NA,Sapphirinidae,NA,NA,3.8,1.25,2.926,MZ12,NA,760,Total length,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,1,NA,Sapphirinidae,NA,NA,5.4,1.25,4.158,MZ12,NA,760,total length,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
-201804,159,P. triacanthus,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,CalanoidSmall,85258,Calanoida,NA
-201804,159,P. triacanthus,1,NA,CalanoidSmall,NA,NA,1.6,1.25,1.232,MZ12,NA,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,CalanoidSmall,85258,Calanoida,NA
-201804,159,P. triacanthus,1,NA,Cladocera,Podon,NA,NA,NA,NA,MZ12,1,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Podon,83964,Podon,Genus
-201804,159,P. triacanthus,1,NA,Cladocera,Podon,NA,0.8,1.25,0.616,MZ12,NA,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Podon,83964,Podon,Genus
+201804,181,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,139,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
+201804,181,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,104,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
+201804,195,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,149,2018-09-29T14:35:00Z,81,40.30737,-69.391793,UnknownSoft,202423,Animalia,Kingdom
+201804,195,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,5,NA,NA,156,2018-09-29T14:35:00Z,81,40.30737,-69.391793,UnknownSoft,202423,Animalia,Kingdom
+201804,215,C_har,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,5,7,NA,NA,252,2018-10-01T19:50:00Z,82,41.364362,-69.326877,CopepodDigested,85257,Copepoda,NA
+201804,215,C_har,1,NA,CopepodUnknown,Calanoida,NA,NA,NA,NA,MZ12,2,7,NA,"Whole gut in vial, other vials contain only prey, was this put in by mistake, are these all the prey items?",252,2018-10-01T19:50:00Z,82,41.364362,-69.326877,Calanoida,85258,Calanoida,Order
+201804,215,C_har,2,NA,CopepodUnknown,Calanoida,NA,NA,NA,NA,MZ12,1,1,NA,NA,258,2018-10-01T19:50:00Z,82,41.364362,-69.326877,Calanoida,85258,Calanoida,Order
+201804,181,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,NA,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
+201804,181,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,NA,2018-09-27T22:28:00Z,60,40.562723,-70.161892,Empty,NA,NA,NA
+201804,160,P_tri,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,2,NA,"A bunch of different sized fish scales also in vial, cannot tell if they were from gut, probably not; they were too big.",107,2018-09-20T08:44:00Z,64,40.641998,-71.43969,CopepodDigested,85257,Copepoda,NA
+201804,178,P_tri,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,70,2018-09-27T12:36:00Z,42,40.788413,-70.17671,Appendicularia,159664,Appendicularia,Class
+201804,178,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,5,NA,NA,70,2018-09-27T12:36:00Z,42,40.788413,-70.17671,UnknownSoft,202423,Animalia,Kingdom
+201804,169,A_aes,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,15,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,UnknownSoft,202423,Animalia,Kingdom
+201804,169,A_aes,1,NA,UnknownSoft,Thaliacea,NA,NA,NA,NA,MZ12,75,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Thaliacea,159632,Thaliacea,Class
+201804,169,A_aes,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,CopepodDigested,85257,Copepoda,NA
+201804,169,A_aes,1,NA,Gammaridea,NA,NA,NA,NA,NA,MZ12,1,92,NA,NA,158,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Gammaridea,93295,Gammaridea,Suborder
+201804,118,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,3,NA,NA,104,2018-09-16T04:41:00Z,59,39.730647,-72.99765,UnknownSoft,202423,Animalia,Kingdom
+201804,111,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,100,2018-09-15T10:47:00Z,58,40.510068,-72.192392,Empty,NA,NA,NA
+201804,120,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,4,NA,NA,125,2018-09-16T10:17:00Z,42,39.7229,-73.27549,UnknownSoft,202423,Animalia,Kingdom
+201804,163,A_pse,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,172,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
+201804,163,A_pse,2,NA,CopepodDigested,Candacia,NA,NA,NA,NA,MZ12,4,5,NA,NA,172,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Candacia,86020,Candacia,Genus
+201804,114,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,102,2018-09-15T18:48:00Z,76,39.859963,-72.444147,UnknownSoft,202423,Animalia,Kingdom
+201804,145,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,10,NA,"4 whole animals measured, some additional parts found as well difficult to tell exactly how many that would be, minimum of 1.",161,2018-09-18T21:40:00Z,126,39.991123,-71.429225,UnknownSoft,202423,Animalia,Kingdom
+201804,145,P_tri,1,NA,Polychaeta,Tomopteridae,Tomopteris,NA,NA,NA,MZ12,5,10,NA,"4 whole animals measured, some additional parts found as well difficult to tell exactly how many that would be, minimum of 1.",161,2018-09-18T21:40:00Z,126,39.991123,-71.429225,Tomopteris,65460,Tomopteris,Genus
+201804,105,A_dub,3,NA,Cladocera,Penilia,Penilia avirostris,NA,NA,NA,MZ12,10,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Penilia avirostris,83836,Penilia avirostris,Species
+201804,105,A_dub,3,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,77,Juvenile,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
+201804,105,A_dub,3,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,18,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
+201804,105,A_dub,3,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,31,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
+201804,105,A_dub,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,6,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CalanoidSmall,85258,Calanoida,NA
+201804,105,A_dub,3,NA,Tortanus,Tortanus discaudatus,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Tortanus discaudatus,86100,Tortanus discaudatus,Species
+201804,105,A_dub,3,NA,Metridia,NA,NA,NA,NA,NA,MZ12,2,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Metridia,85734,Metridia,Genus
+201804,105,A_dub,3,NA,Cladocera,Podon,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Podon,83964,Podon,Genus
+201804,105,A_dub,3,NA,Calanus,Calanus,NA,NA,NA,NA,MZ12,3,77,C5,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Calanus,85263,Calanus,Genus
+201804,105,A_dub,3,NA,Amphipoda,Hyperiidae,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Hyperiidae,95108,Hyperiidae,Family
+201804,105,A_dub,3,NA,Decapoda,NA,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Decapoda,95599,Decopoda,Order
+201804,105,A_dub,3,NA,Candacia,NA,NA,NA,NA,NA,MZ12,1,77,NA,NA,154,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Candacia,86020,Candacia,Genus
+201804,161,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,17,20,NA,NA,107,2018-09-20T11:58:00Z,66,40.620138,-71.155052,UnknownSoft,202423,Animalia,Kingdom
+201804,161,P_tri,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,3,20,NA,NA,107,2018-09-20T11:58:00Z,66,40.620138,-71.155052,Hyperiidae,95108,Hyperiidae,Family
+201804,105,A_dub,4,NA,Cladocera,NA,NA,NA,NA,NA,MZ12,4,6,NA,NA,157,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Cladocera,83832,Cladocera,Suborder
+201804,105,A_dub,4,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,6,NA,NA,157,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
+201804,105,A_dub,4,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,157,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
+201804,105,A_dub,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,26,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
+201804,105,A_dub,2,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,60,Veliger,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Bivalvia,79118,Bivalvia,Class
+201804,105,A_dub,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,8,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CalanoidSmall,85258,Calanoida,NA
+201804,105,A_dub,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,22,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
+201804,145,P_tri,2,NA,Polychaeta,Tomopteridae,Tomopteris,NA,NA,NA,MZ12,8,13,NA,NA,62,2018-09-18T21:40:00Z,126,39.991123,-71.429225,Tomopteris,65460,Tomopteris,Genus
+201804,145,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,13,NA,NA,62,2018-09-18T21:40:00Z,126,39.991123,-71.429225,UnknownSoft,202423,Animalia,Kingdom
+201804,105,P_tri,2,NA,UnknownSoft,Thaliacea,NA,NA,NA,NA,MZ12,3,5,NA,NA,107,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Thaliacea,159632,Thaliacea,Class
+201804,105,P_tri,2,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,2,5,NA,NA,107,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
+201804,105,A_dub,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,159,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
+201804,105,A_dub,5,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
+201804,105,A_dub,5,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
+201804,105,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,9,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,UnknownSoft,202423,Animalia,Kingdom
+201804,105,P_tri,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,3,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
+201804,105,A_dub,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,159,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
+201804,105,A_dub,5,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Centropages,85761,Centropages,Genus
+201804,105,A_dub,5,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,4,NA,NA,162,2018-09-14T22:24:00Z,40,40.598545,-72.563973,CopepodDigested,85257,Copepoda,NA
+201804,105,P_tri,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,3,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,FishEgg,914179,Gnathostomata,NA
+201804,105,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,9,12,NA,NA,120,2018-09-14T22:24:00Z,40,40.598545,-72.563973,UnknownSoft,202423,Animalia,Kingdom
+201804,160,P_tri,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Centropages,85761,Centropages,Genus
+201804,160,P_tri,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Appendicularia,159664,Appendicularia,Class
+201804,160,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,3,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,UnknownSoft,202423,Animalia,Kingdom
+201804,160,P_tri,2,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,1,8,NA,NA,103,2018-09-20T08:44:00Z,64,40.641998,-71.43969,Temora,85874,Temora,Genus
+201804,178,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,66,2018-09-27T12:36:00Z,42,40.788413,-70.17671,Empty,NA,NA,NA
+201804,115,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,93,2018-09-15T21:47:00Z,75,39.65208,-72.703047,UnknownSoft,202423,Animalia,Kingdom
+201804,115,P_tri,1,NA,Hyperiidae,Hyperia,NA,NA,NA,NA,MZ12,4,4,NA,NA,98,2018-09-15T21:47:00Z,75,39.65208,-72.703047,Hyperia,95109,Hyperia,Genus
+201804,152,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,1,NA,NA,120,2018-09-19T14:29:00Z,67,40.571692,-71.792797,UnknownSoft,202423,Animalia,Kingdom
+201804,197,P_tri,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,1,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,FishEgg,914179,Gnathostomata,NA
+201804,197,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,13,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,UnknownSoft,202423,Animalia,Kingdom
+201804,197,P_tri,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,5,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,Centropages,85761,Centropages,Genus
+201804,197,P_tri,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,CalanoidSmall,85258,Calanoida,NA
+201804,197,P_tri,1,NA,Cladocera,Podon,NA,NA,NA,NA,MZ12,1,21,NA,NA,165,2018-09-29T19:45:00Z,67,40.614243,-68.904363,Podon,83964,Podon,Genus
+201804,163,A_pse,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,173,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownOther,202423,Animalia,Kingdom
+201804,163,A_pse,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,3,5,NA,NA,173,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
+201804,163,A_pse,1,NA,CopepodUnknown,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,173,2018-09-20T16:00:00Z,59,40.843713,-71.063218,CopepodUnknown,85257,Copepoda,NA
+201804,215,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,5,NA,NA,159,2018-10-01T19:50:00Z,82,41.364362,-69.326877,UnknownSoft,202423,Animalia,Kingdom
+201804,215,C_har,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,242,2018-10-01T19:50:00Z,82,41.364362,-69.326877,Empty,NA,NA,NA
+201804,111,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,6,NA,NA,100,2018-09-15T10:47:00Z,58,40.510068,-72.192392,UnknownSoft,202423,Animalia,Kingdom
+201804,111,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,100,2018-09-15T10:47:00Z,58,40.510068,-72.192392,Hyperiidae,95108,Hyperiidae,Family
+201804,118,P_tri,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,5,NA,NA,110,2018-09-16T04:41:00Z,59,39.730647,-72.99765,Appendicularia,159664,Appendicularia,Class
+201804,118,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,5,NA,NA,110,2018-09-16T04:41:00Z,59,39.730647,-72.99765,UnknownSoft,202423,Animalia,Kingdom
+201804,174,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,15,19,NA,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,UnknownSoft,202423,Animalia,Kingdom
+201804,174,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,19,NA,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
+201804,174,P_tri,2,NA,Sapphirinidae,Sapphirina,NA,NA,NA,NA,MZ12,1,19,NA,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Sapphirina,88831,Sapphirina,Genus
+201804,174,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,19,Juvenile,NA,146,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
+201804,209,P_tri,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,5,5,NA,NA,154,2018-10-01T02:06:00Z,62,41.214598,-68.558077,Mysida,89855,Mysida,Order
+201804,187,P_tri,1,NA,UnknownSoft,Thaliacea,NA,NA,NA,NA,MZ12,29,32,NA,NA,145,2018-09-28T17:03:00Z,102,40.185958,-69.968825,Thaliacea,159632,Thaliacea,Class
+201804,187,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,32,NA,NA,145,2018-09-28T17:03:00Z,102,40.185958,-69.968825,UnknownSoft,202423,Animalia,Kingdom
+201804,187,P_tri,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,32,NA,NA,145,2018-09-28T17:03:00Z,102,40.185958,-69.968825,Appendicularia,159664,Appendicularia,Class
+201804,151,P_tri,2*,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,3,10,NA,Star after indv. numnber,93,2018-09-19T12:25:00Z,76,40.376612,-71.752762,CopepodDigested,85257,Copepoda,NA
+201804,151,P_tri,2*,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,10,NA,Star after indv. numnber,93,2018-09-19T12:25:00Z,76,40.376612,-71.752762,UnknownSoft,202423,Animalia,Kingdom
+201804,151,P_tri,2*,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,2,10,NA,Star after indv. numnber,93,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Appendicularia,159664,Appendicularia,Class
+201804,151,P_tri,1*,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,6,9,NA,Star after indv. numnber,94,2018-09-19T12:25:00Z,76,40.376612,-71.752762,UnknownSoft,202423,Animalia,Kingdom
+201804,151,P_tri,1*,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,9,NA,Star after indv. numnber,94,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Hyperiidae,95108,Hyperiidae,Family
+201804,151,P_tri,1*,NA,Euphausiidae,NA,NA,NA,NA,NA,MZ12,1,9,Furcilia,Star after indv. numnber,94,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Euphausiidae,95500,Euphausiidae,Family
+201804,161,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,114,2018-09-20T11:58:00Z,66,40.620138,-71.155052,Hyperiidae,95108,Hyperiidae,Family
+201804,161,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,114,2018-09-20T11:58:00Z,66,40.620138,-71.155052,UnknownSoft,202423,Animalia,Kingdom
+201804,114,P_tri,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,2,11,NA,NA,98,2018-09-15T18:48:00Z,76,39.859963,-72.444147,CopepodDigested,85257,Copepoda,NA
+201804,114,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,8,11,NA,NA,98,2018-09-15T18:48:00Z,76,39.859963,-72.444147,UnknownSoft,202423,Animalia,Kingdom
+201804,114,P_tri,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,11,NA,NA,98,2018-09-15T18:48:00Z,76,39.859963,-72.444147,UnknownOther,202423,Animalia,Kingdom
+201804,120,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,81,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,UnknownSoft,202423,Animalia,Kingdom
+201804,120,P_tri,2,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,UnknownOther,202423,Animalia,Kingdom
+201804,120,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,11,93,NA,NA,123,2018-09-16T10:17:00Z,42,39.7229,-73.27549,Hyperiidae,95108,Hyperiidae,Family
+201804,152,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,111,2018-09-19T14:29:00Z,67,40.571692,-71.792797,Empty,NA,NA,NA
+201804,188,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,2,NA,NA,154,2018-09-28T19:52:00Z,154,40.035663,-69.995305,UnknownSoft,202423,Animalia,Kingdom
+201804,191,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,41,48,Scales present in gut,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,UnknownSoft,202423,Animalia,Kingdom
+201804,191,P_tri,1,NA,Gammaridea,NA,NA,NA,NA,NA,MZ12,1,48,NA,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,Gammaridea,93295,Gammaridea,Suborder
+201804,191,P_tri,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,4,48,NA,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,Appendicularia,159664,Appendicularia,Class
+201804,191,P_tri,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,48,NA,NA,162,2018-09-29T06:05:00Z,142,40.164217,-68.974547,Hyperiidae,95108,Hyperiidae,Family
+201804,116,P_tri,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,2,14,worm,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Parasite,202423,Animalia,Kingdom
+201804,116,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,12,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,UnknownSoft,202423,Animalia,Kingdom
+201804,164,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,10,10,NA,NA,132,2018-09-20T18:33:00Z,48,41.004027,-71.344045,UnknownSoft,202423,Animalia,Kingdom
+201804,193,P_tri,1,NA,FishEgg,NA,NA,NA,NA,NA,MZ12,2,2,NA,>12 unknown orb-like material,160,2018-09-29T10:22:00Z,100,40.282908,-69.034442,FishEgg,914179,Gnathostomata,NA
+201804,184,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,154,2018-09-28T08:08:00Z,135,40.11973,-70.735222,Empty,NA,NA,NA
+201804,112,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,1,NA,"internal label initialy incorrect; I chnaged it to be the correct label, but left the tape on the outside; ball of plastic fibres present",104,2018-09-15T15:10:00Z,81,39.930375,-72.322143,UnknownSoft,202423,Animalia,Kingdom
+201804,154,P_tri,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,5,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,CopepodDigested,85257,Copepoda,NA
+201804,154,P_tri,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,2,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,CalanoidSmall,85258,Calanoida,NA
+201804,154,P_tri,2,NA,CopepodUnknown,NA,NA,NA,NA,NA,MZ12,1,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,CopepodUnknown,85257,Copepoda,NA
+201804,154,P_tri,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,Appendicularia,159664,Appendicularia,Class
+201804,154,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,10,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,UnknownSoft,202423,Animalia,Kingdom
+201804,154,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,23,NA,NA,102,2018-09-19T18:16:00Z,54,40.625518,-71.959812,Hyperiidae,95108,Hyperiidae,Family
+201804,144,P_tri,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,1,1,NA,NA,134,2018-09-18T18:47:00Z,116,39.936108,-71.854188,Metridia,85734,Metridia,Genus
+201804,107,A_dub,5,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,1,NA,NA,142,2018-09-15T02:33:00Z,34,40.722123,-72.49973,UnknownSoft,202423,Animalia,Kingdom
+201804,164,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,11,11,NA,NA,140,2018-09-20T18:33:00Z,48,41.004027,-71.344045,UnknownSoft,202423,Animalia,Kingdom
+201804,151,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,6,NA,NA,147,2018-09-19T12:25:00Z,76,40.376612,-71.752762,UnknownSoft,202423,Animalia,Kingdom
+201804,151,P_tri,2,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,147,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Chaetognatha,158650,Chaetognatha,Phylum
+201804,140,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,9,9,NA,NA,145,2018-09-18T07:33:00Z,148,39.294983,-72.482768,UnknownSoft,202423,Animalia,Kingdom
+201804,107,A_dub,4,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,147,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
+201804,107,A_dub,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,174,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
+201804,174,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,8,15,NA,NA,160,2018-09-27T01:18:00Z,50,40.932672,-70.513423,UnknownSoft,202423,Animalia,Kingdom
+201804,174,P_tri,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,15,NA,NA,160,2018-09-27T01:18:00Z,50,40.932672,-70.513423,Hyperiidae,95108,Hyperiidae,Family
+201804,174,P_tri,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,6,15,NA,NA,160,2018-09-27T01:18:00Z,50,40.932672,-70.513423,CopepodDigested,85257,Copepoda,NA
+201804,140,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,3,3,NA,chunk of fish tissue in vial,151,2018-09-18T07:33:00Z,148,39.294983,-72.482768,UnknownSoft,202423,Animalia,Kingdom
+201804,144,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,3,NA,chunk of fish tissue in vial,132,2018-09-18T18:47:00Z,116,39.936108,-71.854188,UnknownSoft,202423,Animalia,Kingdom
+201804,144,P_tri,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,3,NA,chunk of fish tissue in vial,132,2018-09-18T18:47:00Z,116,39.936108,-71.854188,CopepodDigested,85257,Copepoda,NA
+201804,169,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,297,302,NA,NA,139,2018-09-26T08:22:00Z,43,41.260153,-71.16017,UnknownSoft,202423,Animalia,Kingdom
+201804,169,P_tri,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,302,NA,NA,139,2018-09-26T08:22:00Z,43,41.260153,-71.16017,CopepodDigested,85257,Copepoda,NA
+201804,169,P_tri,2,NA,Sapphirinidae,NA,NA,NA,NA,NA,MZ12,4,302,NA,NA,139,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Sapphirinidae,88830,Sapphirinidae,Family
+201804,193,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,28,28,NA,NA,159,2018-09-29T10:22:00Z,100,40.282908,-69.034442,UnknownSoft,202423,Animalia,Kingdom
+201804,209,A_pse,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,50,527,Digested,NA,203,2018-10-01T02:06:00Z,62,41.214598,-68.558077,Hyperiidae,95108,Hyperiidae,Family
+201804,209,A_pse,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,477,527,Digested,NA,203,2018-10-01T02:06:00Z,62,41.214598,-68.558077,Mysida,89855,Mysida,Order
+201804,116,P_tri,2,NA,Candacia,NA,NA,NA,NA,NA,MZ12,5,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Candacia,86020,Candacia,Genus
+201804,116,P_tri,2,NA,CopepodUnknown,NA,NA,NA,NA,NA,MZ12,1,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,CopepodUnknown,85257,Copepoda,NA
+201804,116,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,6,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,UnknownSoft,202423,Animalia,Kingdom
+201804,116,P_tri,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,14,NA,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Centropages,85761,Centropages,Genus
+201804,116,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,14,Digested,NA,102,2018-09-16T00:41:00Z,67,39.408272,-73.028278,Hyperiidae,95108,Hyperiidae,Family
+201804,150,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,140,2018-09-19T10:11:00Z,88,40.157032,-71.573265,Empty,NA,NA,NA
+201804,245,A_pse,2,NA,Mysida,NA,NA,NA,NA,NA,MZ12,43,146,Digested,NA,221,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Mysida,89855,Mysida,Order
+201804,245,A_pse,2,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,102,146,NA,NA,221,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
+201804,245,A_pse,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,1,146,worm,NA,221,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Parasite,202423,Animalia,Kingdom
+201804,107,A_dub,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,154,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
+201804,154,P_tri,1,NA,Candacia,NA,NA,NA,NA,NA,MZ12,2,3,NA,NA,106,2018-09-19T18:16:00Z,54,40.625518,-71.959812,Candacia,86020,Candacia,Genus
+201804,154,P_tri,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,3,DIgested,NA,106,2018-09-19T18:16:00Z,54,40.625518,-71.959812,UnknownOther,202423,Animalia,Kingdom
+201804,184,P_tri,2,NA,Decapoda,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,160,2018-09-28T08:08:00Z,135,40.11973,-70.735222,Decapoda,95599,Decopoda,Order
+201804,184,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,5,6,NA,NA,160,2018-09-28T08:08:00Z,135,40.11973,-70.735222,UnknownSoft,202423,Animalia,Kingdom
+201804,218,S_sco,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,45,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CalanoidSmall,85258,Calanoida,NA
+201804,218,S_sco,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,193,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,UnknownSoft,202423,Animalia,Kingdom
+201804,218,S_sco,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,8,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CopepodDigested,85257,Copepoda,NA
+201804,218,S_sco,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,14,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Metridia,85734,Metridia,Genus
+201804,218,S_sco,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Appendicularia,159664,Appendicularia,Class
+201804,218,S_sco,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,5,290,worm,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Parasite,202423,Animalia,Kingdom
+201804,218,S_sco,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,17,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Hyperiidae,95108,Hyperiidae,Family
+201804,218,S_sco,2,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,UnknownOther,202423,Animalia,Kingdom
+201804,218,S_sco,2,NA,Candacia,NA,NA,NA,NA,NA,MZ12,3,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Candacia,86020,Candacia,Genus
+201804,218,S_sco,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,1,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Calanus,85263,Calanus,Genus
+201804,218,S_sco,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,290,NA,NA,262,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Centropages,85761,Centropages,Genus
+201804,107,A_dub,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,159,2018-09-15T02:33:00Z,34,40.722123,-72.49973,Empty,NA,NA,NA
+201804,149,P_tri,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,1,NA,star on station number,156,2018-09-19T07:53:00Z,121,40.12504,-71.262995,UnknownOther,202423,Animalia,Kingdom
+201804,NA,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,6,NA,NA,158,NA,NA,NA,NA,UnknownSoft,202423,Animalia,Kingdom
+201804,NA,P_tri,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,158,NA,NA,NA,NA,Mysida,89855,Mysida,Order
+201804,NA,P_tri,1,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,1,6,NA,NA,158,NA,NA,NA,NA,UnknownOther,202423,Animalia,Kingdom
+201804,218,S_sco,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,254,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Empty,NA,NA,NA
+201804,245,A_pse,1,NA,Mysida,NA,NA,NA,NA,NA,MZ12,69,258,NA,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Mysida,89855,Mysida,Order
+201804,245,A_pse,1,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,187,258,NA,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
+201804,245,A_pse,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,258,NA,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,CalanoidSmall,85258,Calanoida,NA
+201804,245,A_pse,1,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,258,Veliger,NA,252,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Bivalvia,79118,Bivalvia,Class
+201804,106,A_dub,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,147,2018-09-14T23:58:00Z,45,40.543672,-72.499072,Empty,NA,NA,NA
+201804,117,P_tri,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,95,2018-09-16T02:58:00Z,67,39.624602,-73.034733,Hyperiidae,95108,Hyperiidae,Family
+201804,117,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,95,2018-09-16T02:58:00Z,67,39.624602,-73.034733,UnknownSoft,202423,Animalia,Kingdom
+201804,149,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,151,2018-09-19T07:53:00Z,121,40.12504,-71.262995,Empty,NA,NA,NA
+201804,218,S_sco,1,NA,Candacia,NA,NA,NA,NA,NA,MZ12,12,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Candacia,86020,Candacia,Genus
+201804,218,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,15,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CalanoidSmall,85258,Calanoida,NA
+201804,218,S_sco,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,725,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,UnknownSoft,202423,Animalia,Kingdom
+201804,218,S_sco,1,NA,Metridia,NA,NA,NA,NA,NA,MZ12,51,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Metridia,85734,Metridia,Genus
+201804,218,S_sco,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,15,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Hyperiidae,95108,Hyperiidae,Family
+201804,218,S_sco,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,5,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,CopepodDigested,85257,Copepoda,NA
+201804,218,S_sco,1,NA,Tortanus,NA,NA,NA,NA,NA,MZ12,1,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Tortanus,86099,Tortanus,Genus
+201804,218,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,2,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Centropages,85761,Centropages,Genus
+201804,218,S_sco,1,NA,Egg,NA,NA,NA,NA,NA,MZ12,1,827,NA,NA,268,2018-10-02T13:51:00Z,45,41.567265,-69.621013,Egg,202423,Animalia,Kingdom
+201804,NA,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,9,NA,NA,152,NA,NA,NA,NA,UnknownSoft,202423,Animalia,Kingdom
+201804,NA,P_tri,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,7,9,NA,NA,152,NA,NA,NA,NA,CopepodDigested,85257,Copepoda,NA
+201804,245,A_pse,3,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,30,38,NA,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Animalia,202423,Animalia,Kingdom
+201804,245,A_pse,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,8,38,Too digested to measure,NA,233,2018-10-12T04:54:00Z,76,41.369833,-68.494165,Hyperiidae,95108,Hyperiidae,Family
+201804,163,P_tri,2,NA,UnknownOther,NA,NA,NA,NA,NA,MZ12,3,5,Digested,NA,108,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownOther,202423,Animalia,Kingdom
+201804,163,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,5,NA,NA,108,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
+201804,163,P_tri,1,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,2,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Chaetognatha,158650,Chaetognatha,Phylum
+201804,163,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,2,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,UnknownSoft,202423,Animalia,Kingdom
+201804,163,P_tri,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,2,6,NA,NA,126,2018-09-20T16:00:00Z,59,40.843713,-71.063218,Hyperiidae,95108,Hyperiidae,Family
+201804,117,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,96,2018-09-16T02:58:00Z,67,39.624602,-73.034733,Empty,NA,NA,NA
+201804,159,P_tri,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,4,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Appendicularia,159664,Appendicularia,Class
+201804,159,P_tri,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,CalanoidSmall,85258,Calanoida,NA
+201804,138,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,4,4,NA,NA,140,2018-09-18T02:45:00Z,120,39.284958,-72.708032,UnknownSoft,202423,Animalia,Kingdom
+201804,151,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,137,2018-09-19T12:25:00Z,76,40.376612,-71.752762,Empty,NA,NA,NA
+201804,169,P_tri,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,161,2018-09-26T08:22:00Z,43,41.260153,-71.16017,Empty,NA,NA,NA
+201804,194,P_tri,1,NA,Egg,Animalia,NA,NA,NA,NA,MZ12,1,22,NA,NA,150,2018-09-29T12:11:00Z,99,40.218353,-69.190136999999993,Animalia,202423,Animalia,Kingdom
+201804,194,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,21,22,NA,NA,150,2018-09-29T12:11:00Z,99,40.218353,-69.190136999999993,UnknownSoft,202423,Animalia,Kingdom
+201804,138,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,11,11,NA,NA,149,2018-09-18T02:45:00Z,120,39.284958,-72.708032,UnknownSoft,202423,Animalia,Kingdom
+201804,150,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,check that this station was done on this cruise.,150,2018-09-19T10:11:00Z,88,40.157032,-71.573265,Empty,NA,NA,NA
+201804,188,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,10,11,NA,NA,144,2018-09-28T19:52:00Z,154,40.035663,-69.995305,UnknownSoft,202423,Animalia,Kingdom
+201804,188,P_tri,2,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,11,Veliger,NA,144,2018-09-28T19:52:00Z,154,40.035663,-69.995305,Bivalvia,79118,Bivalvia,Class
+201804,159,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,754,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,UnknownSoft,202423,Animalia,Kingdom
+201804,159,P_tri,1,NA,Bivalvia,NA,NA,NA,NA,NA,MZ12,1,760,Veliger,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Bivalvia,79118,Bivalvia,Class
+201804,159,P_tri,1,NA,Sapphirinidae,NA,NA,NA,NA,NA,MZ12,3,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
+201804,159,P_tri,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,CalanoidSmall,85258,Calanoida,NA
+201804,159,P_tri,1,NA,Cladocera,Podon,NA,NA,NA,NA,MZ12,1,760,NA,NA,133,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Podon,83964,Podon,Genus
 201902,95,S_sco,2,NA,Foraminiferida,NA,NA,NA,NA,NA,MZ12,3,5,"v small, probably a lot more but v hard to spot in all the sand in gut","very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
 201902,95,S_sco,2,NA,Mysida,NA,NA,NA,NA,NA,MZ12,1,5,NA,"very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Mysida,89855,Mysida,Order
 201902,95,S_sco,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,5,NA,"very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,UnknownSoft,202423,Animalia,Kingdom
@@ -2536,7 +2470,6 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201902,178,S_sco,1,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,5,388,NA,NA,289,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Temora,85874,Temora,Genus
 201902,178,S_sco,1,NA,Thecosomata,NA,NA,NA,NA,NA,MZ12,2,388,NA,NA,289,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Thecosomata,76333,Thecosomata,Order
 201902,178,S_sco,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,5,NA,NA,NA,289,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Parasite,202423,Animalia,Kingdom
-201902,176,S_sco,2,NA,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,NA,NA,NA,276,2019-04-01T23:07:00Z,188,40.031023,-70.555825,Foraminiferida,44030,Foraminiferida,Order
 201902,176,S_sco,2,NA,Thecosomata,Limacina,NA,NA,NA,NA,MZ12,31,1067,NA,NA,276,2019-04-01T23:07:00Z,188,40.031023,-70.555825,Limacina,76336,Limacina,Genus
 201902,176,S_sco,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,15,1067,NA,NA,276,2019-04-01T23:07:00Z,188,40.031023,-70.555825,Calanus,85263,Calanus,Genus
 201902,176,S_sco,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,50,1067,NA,NA,276,2019-04-01T23:07:00Z,188,40.031023,-70.555825,CalanoidSmall,85258,Calanoida,NA
@@ -2559,21 +2492,15 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201902,122,S_sco,1,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,12,28,NA,NA,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Chaetognatha,158650,Chaetognatha,Phylum
 201902,122,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,8,28,NA,NA,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Centropages,85761,Centropages,Genus
 201902,122,S_sco,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,6,28,NA,NA,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Appendicularia,159664,Appendicularia,Class
-201902,122,S_sco,1,NA,Cyclopoida,Corycaeus,NA,1.1,0.8,1.375,MZ12,NA,28,NA,NA,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Corycaeus,88571,Corycaeus,Genus
-201902,122,S_sco,1,NA,CalanoidSmall,Centropages,NA,1.7,0.8,2.125,MZ12,NA,28,NA,NA,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Centropages,85761,Centropages,Genus
-201902,122,S_sco,1,NA,CalanoidSmall,Centropages,NA,1.2,0.8,1.5,MZ12,NA,28,NA,NA,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Centropages,85761,Centropages,Genus
 201902,95,A_pse,3,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,1,8,NA,NA,244,2019-03-19T12:09:00Z,103,39.271778,-72.749875,UnknownSoft,202423,Animalia,Kingdom
 201902,95,A_pse,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,7,8,NA,NA,244,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Hyperiidae,95108,Hyperiidae,Family
-201902,95,A_pse,3,NA,Parasite,NA,NA,NA,NA,NA,MZ12,NA,1,roundworm,NA,244,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Parasite,202423,Animalia,Kingdom
 201902,177,S_sco,3,NA,Cephalopoda,Coleoidea,NA,NA,NA,NA,MZ12,1,2,NA,NA,271,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Coleoidea,82330,Coleoidea,Subclass
 201902,177,S_sco,3,NA,Candacia,NA,NA,NA,NA,NA,MZ12,1,2,NA,NA,271,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Candacia,86020,Candacia,Genus
-201902,177,S_sco,3,NA,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,2,NA,Sandy tons of forams,271,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Foraminiferida,44030,Foraminiferida,Order
 201902,105,S_sco,3,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,Empty,299,2019-03-20T10:59:00Z,105,39.966933,-71.78015,Empty,NA,NA,NA
 201902,105,S_sco,3,NA,Parasite,NA,NA,NA,NA,NA,MZ12,0,0,roundworm,NA,299,2019-03-20T10:59:00Z,105,39.966933,-71.78015,Parasite,202423,Animalia,Kingdom
 201902,116,A_pse,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,273,273,NA,NA,225,2019-03-27T07:15:00Z,49,40.654795,-72.176262,Appendicularia,159664,Appendicularia,Class
 201902,201,S_sco,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,Empty,177,2019-04-12T09:13:00Z,80,40.350167,-69.828202,Empty,NA,NA,NA
 201902,201,S_sco,1,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,Empty,177,2019-04-12T09:13:00Z,80,40.350167,-69.828202,Empty,NA,NA,NA
-201902,201,S_sco,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,NA,NA,roundworm,NA,177,2019-04-12T09:13:00Z,80,40.350167,-69.828202,Parasite,202423,Animalia,Kingdom
 201902,177,P_tri,3,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,1,57,NA,NA,145,2019-04-02T01:43:00Z,163,40.082308,-70.445578,CopepodDigested,85257,Copepoda,NA
 201902,177,P_tri,3,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,42,57,NA,NA,145,2019-04-02T01:43:00Z,163,40.082308,-70.445578,UnknownSoft,202423,Animalia,Kingdom
 201902,177,P_tri,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,14,57,NA,NA,145,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Appendicularia,159664,Appendicularia,Class
@@ -2607,6 +2534,89 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201902,122,S_sco,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,1,633,NA,sorted half; small amount of sand and forams,186,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Calanus,85263,Calanus,Genus
 201902,122,S_sco,2,NA,Mysida,NA,NA,NA,NA,NA,MZ12,1,633,NA,sorted half; small amount of sand and forams,186,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Mysida,89855,Mysida,Order
 201902,122,S_sco,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,55,633,NA,sorted half; small amount of sand and forams,186,2019-03-28T00:07:00Z,45,39.77813,-73.222168,UnknownSoft,202423,Animalia,Kingdom
+201802,170,P_tri,3,0,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,NA,91,2018-04-20T17:32:00Z,83,40.282707,-69.329193,Empty,NA,NA,NA
+201802,170,P_tri,2,0,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,86,2018-04-20T17:32:00Z,83,40.282707,-69.329193,Empty,NA,NA,NA
+201802,240,C_har,3,0,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,NA,261,2018-05-06T13:23:00Z,85,41.538393,-68.492108,Empty,NA,NA,NA
+201802,65,A_aes,2,0,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,Lobes of caudal fin severed,103,2018-03-29T08:03:00Z,34,40.797907,-72.341923,Empty,NA,NA,NA
+201802,64,A_aes,1,0,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,NA,101,2018-03-29T06:20:00Z,48,40.71089,-72.272082,Empty,NA,NA,NA
+201802,64,A_aes,2,0,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,94,2018-03-29T06:20:00Z,48,40.71089,-72.272082,Empty,NA,NA,NA
+201804,118,P_tri,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,3,NA,NA,104,2018-09-16T04:41:00Z,59,39.730647,-72.99765,Appendicularia,159664,Appendicularia,Class
+201802,64,A_aes,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,94,2018-03-29T06:20:00Z,48,40.71089,-72.272082,Empty,NA,NA,NA
+201802,64,A_aes,1,NA,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,NA,101,2018-03-29T06:20:00Z,48,40.71089,-72.272082,Empty,NA,NA,NA
+201802,65,A_aes,2,NA,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,Lobes of caudal fin severed,103,2018-03-29T08:03:00Z,34,40.797907,-72.341923,Empty,NA,NA,NA
+201802,240,C_har,3,NA,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,NA,261,2018-05-06T13:23:00Z,85,41.538393,-68.492108,Empty,NA,NA,NA
+201802,170,P_tri,2,NA,Empty,NA,NA,NA,NA,NA,MZ12,0,0,NA,NA,86,2018-04-20T17:32:00Z,83,40.282707,-69.329193,Empty,NA,NA,NA
+201902,199,S_sco,1,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,99,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Themisto,95167,Themisto,Genus
+201902,199,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,CalanoidSmall,85258,Calanoida,NA
+201902,199,S_sco,1,NA,Caligidae,NA,NA,NA,NA,NA,MZ12,3,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Caligidae,89008,Caligidae,Family
+201902,199,S_sco,1,NA,FishLarvae,NA,NA,NA,NA,NA,MZ12,3,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,FishLarvae,914179,Gnathostomata,NA
+201902,199,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Centropages,85761,Centropages,Genus
+201902,199,S_sco,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,2,NA,roundworm,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Parasite,202423,Animalia,Kingdom
+201902,121,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,36,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,CalanoidSmall,85258,Calanoida,NA
+201902,121,S_sco,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,11,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Calanus,85263,Calanus,Genus
+201902,121,S_sco,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,733,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Appendicularia,159664,Appendicularia,Class
+201902,121,S_sco,1,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,5,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Themisto,95167,Themisto,Genus
+201902,121,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,17,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Centropages,85761,Centropages,Genus
+201902,121,S_sco,1,NA,Cyclopoida,Oithona,NA,NA,NA,NA,MZ12,1,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Oithona,88802,Oithona,Genus
+201902,109,C_har,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,2,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,CalanoidSmall,85258,Calanoida,NA
+201902,109,C_har,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,712,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Appendicularia,159664,Appendicularia,Class
+201902,109,C_har,3,NA,Calanus,NA,NA,NA,NA,NA,MZ12,14,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Calanus,85263,Calanus,Genus
+201902,109,C_har,3,NA,Candacia,NA,NA,NA,NA,NA,MZ12,2,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Candacia,86020,Candacia,Genus
+201902,109,C_har,3,NA,Mysida,NA,NA,NA,NA,NA,MZ12,2,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Mysida,89855,Mysida,Order
+201902,111,S_sco,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,84,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3380,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,4,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Centropages,85761,Centropages,Genus
+201902,111,S_sco,3,NA,Calanus,NA,NA,NA,NA,NA,MZ12,24,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,NA,Metridia,NA,NA,NA,NA,NA,MZ12,16,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
+201902,111,S_sco,3,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,32,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Chaetognatha,158650,Chaetognatha,Phylum
+201902,111,S_sco,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,12,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,NA,Caridea,NA,NA,NA,NA,NA,MZ12,8,3568,Zooea,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Caridea,96106,Caridea,Infraorder
+201902,111,S_sco,3,NA,Rhincalanus,NA,NA,NA,NA,NA,MZ12,4,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Rhincalanus,85316,Rhincalanus,Genus
+201902,111,S_sco,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
+201902,111,S_sco,3,NA,Parasite,NA,NA,NA,NA,NA,MZ12,4,NA,roundworm,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Parasite,202423,Animalia,Kingdom
+201902,95,P_tri,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,3,NA,NA,170,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Appendicularia,159664,Appendicularia,Class
+201902,95,P_tri,3,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,1,3,NA,NA,170,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Themisto,95167,Themisto,Genus
+201902,95,P_tri,3,NA,Amphipoda,NA,NA,NA,NA,NA,MZ12,1,3,NA,NA,170,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Amphipoda,93294,Amphipoda,Order
+201902,121,C_har,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,12,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,CalanoidSmall,85258,Calanoida,NA
+201902,121,C_har,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,4,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Calanus,85263,Calanus,Genus
+201902,121,C_har,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1280,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Appendicularia,159664,Appendicularia,Class
+201902,121,C_har,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,8,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Centropages,85761,Centropages,Genus
+201902,121,C_har,2,NA,Ostracoda,NA,NA,NA,NA,NA,MZ12,2,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Ostracoda,84195,Ostracoda,Class
+201902,121,C_har,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,2,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Metridia,85734,Metridia,Genus
+201902,111,A_pse,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,8,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
+201902,111,A_pse,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3016,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,A_pse,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,40,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,A_pse,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,52,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,A_pse,1,NA,Amphipoda,NA,NA,NA,NA,NA,MZ12,4,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Amphipoda,93294,Amphipoda,Order
+201902,175,C_har,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,44,48,NA,NA,251,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Hyperiidae,95108,Hyperiidae,Family
+201902,175,C_har,2,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,3,48,NA,NA,251,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Temora,85874,Temora,Genus
+201902,175,C_har,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,48,NA,NA,251,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,4212,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,2,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,12,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Chaetognatha,158650,Chaetognatha,Phylum
+201902,111,S_sco,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
+201902,111,S_sco,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,20,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,4,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,4,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
+201902,111,S_sco,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,12,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CopepodDigested,85257,Copepoda,NA
+201902,111,S_sco,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,4,NA,roundworm,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Parasite,202423,Animalia,Kingdom
+201902,111,A_pse,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3048,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,A_pse,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,8,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,A_pse,3,NA,Calanus,NA,NA,NA,NA,NA,MZ12,4,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,A_pse,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
+201902,122,S_sco,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,12,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Hyperiidae,95108,Hyperiidae,Family
+201902,122,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,280,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,CalanoidSmall,85258,Calanoida,NA
+201902,122,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1000,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Centropages,85761,Centropages,Genus
+201902,122,S_sco,1,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,176,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Chaetognatha,158650,Chaetognatha,Phylum
+201902,122,S_sco,1,NA,Metridia,NA,NA,NA,NA,NA,MZ12,36,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Metridia,85734,Metridia,Genus
+201902,122,S_sco,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,20,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Calanus,85263,Calanus,Genus
+201902,122,S_sco,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,8,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Appendicularia,159664,Appendicularia,Class
+201902,122,S_sco,1,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,4,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Temora,85874,Temora,Genus
+201902,122,S_sco,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,16,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,CopepodDigested,85257,Copepoda,NA
+201902,122,S_sco,1,NA,Decapoda,NA,NA,NA,NA,NA,MZ12,4,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Decapoda,95599,Decopoda,Order
+201802,170,P_tri,3,NA,Empty,NA,NA,NA,NA,NA,M60,0,0,NA,NA,91,2018-04-20T17:32:00Z,83,40.282707,-69.329193,Empty,NA,NA,NA
+201902,95,A_pse,3,NA,Parasite,NA,NA,NA,NA,NA,MZ12,NA,1,roundworm,NA,244,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Parasite,202423,Animalia,Kingdom
+201902,177,S_sco,3,NA,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,2,NA,Sandy tons of forams,271,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Foraminiferida,44030,Foraminiferida,Order
+201902,201,S_sco,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,NA,NA,roundworm,NA,177,2019-04-12T09:13:00Z,80,40.350167,-69.828202,Parasite,202423,Animalia,Kingdom
 201902,122,S_sco,2,NA,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,633,NA,sorted half; small amount of sand and forams,186,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Foraminiferida,44030,Foraminiferida,Order
 201902,121,S_sco,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,358,776,NA,split in half; counts doubled,228,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Appendicularia,159664,Appendicularia,Class
 201902,121,S_sco,2,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,6,776,NA,split in half; counts doubled,228,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Temora,85874,Temora,Genus
@@ -2701,73 +2711,60 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201902,177,P_tri,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,8,47,NA,NA,127,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Appendicularia,159664,Appendicularia,Class
 201902,177,P_tri,1,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,36,47,NA,NA,127,2019-04-02T01:43:00Z,163,40.082308,-70.445578,UnknownSoft,202423,Animalia,Kingdom
 201902,177,P_tri,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,3,47,NA,NA,127,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Calanus,85263,Calanus,Genus
-201902,177,P_tri,1,NA,Calanus,NA,NA,2.2,0.8,2.75,MZ12,NA,47,NA,NA,127,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Calanus,85263,Calanus,Genus
-201902,177,P_tri,1,NA,Calanus,NA,NA,2.1,0.8,2.625,MZ12,NA,47,NA,NA,127,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Calanus,85263,Calanus,Genus
-201902,177,P_tri,1,NA,Calanus,NA,NA,2.3,0.8,2.875,MZ12,NA,47,NA,NA,127,2019-04-02T01:43:00Z,163,40.082308,-70.445578,Calanus,85263,Calanus,Genus
-201902,199,S_sco,1,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,99,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Themisto,95167,Themisto,Genus
-201902,199,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,1,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,CalanoidSmall,85258,Calanoida,NA
-201902,199,S_sco,1,NA,Caligidae,NA,NA,NA,NA,NA,MZ12,3,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Caligidae,89008,Caligidae,Family
-201902,199,S_sco,1,NA,FishLarvae,NA,NA,NA,NA,NA,MZ12,3,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,FishLarvae,914179,Gnathostomata,NA
-201902,199,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1,107,NA,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Centropages,85761,Centropages,Genus
-201902,199,S_sco,1,NA,Parasite,NA,NA,NA,NA,NA,MZ12,2,NA,roundworm,NA,177,2019-04-12T02:37:00Z,63,40.52996,-70.24338,Parasite,202423,Animalia,Kingdom
-201902,121,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,36,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,CalanoidSmall,85258,Calanoida,NA
-201902,121,S_sco,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,11,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Calanus,85263,Calanus,Genus
-201902,121,S_sco,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,733,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Appendicularia,159664,Appendicularia,Class
-201902,121,S_sco,1,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,5,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Themisto,95167,Themisto,Genus
-201902,121,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,17,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Centropages,85761,Centropages,Genus
-201902,121,S_sco,1,NA,Cyclopoida,Oithona,NA,NA,NA,NA,MZ12,1,803,NA,NA,241,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Oithona,88802,Oithona,Genus
-201902,109,C_har,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,2,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,CalanoidSmall,85258,Calanoida,NA
-201902,109,C_har,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,712,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Appendicularia,159664,Appendicularia,Class
-201902,109,C_har,3,NA,Calanus,NA,NA,NA,NA,NA,MZ12,14,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Calanus,85263,Calanus,Genus
-201902,109,C_har,3,NA,Candacia,NA,NA,NA,NA,NA,MZ12,2,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Candacia,86020,Candacia,Genus
-201902,109,C_har,3,NA,Mysida,NA,NA,NA,NA,NA,MZ12,2,732,NA,split one time,255,2019-03-20T17:51:00Z,73,40.290205,-71.79735,Mysida,89855,Mysida,Order
-201902,111,S_sco,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,84,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
-201902,111,S_sco,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3380,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
-201902,111,S_sco,3,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,4,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Centropages,85761,Centropages,Genus
-201902,111,S_sco,3,NA,Calanus,NA,NA,NA,NA,NA,MZ12,24,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
-201902,111,S_sco,3,NA,Metridia,NA,NA,NA,NA,NA,MZ12,16,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
-201902,111,S_sco,3,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,32,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Chaetognatha,158650,Chaetognatha,Phylum
-201902,111,S_sco,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,12,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
-201902,111,S_sco,3,NA,Caridea,NA,NA,NA,NA,NA,MZ12,8,3568,Zooea,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Caridea,96106,Caridea,Infraorder
-201902,111,S_sco,3,NA,Rhincalanus,NA,NA,NA,NA,NA,MZ12,4,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Rhincalanus,85316,Rhincalanus,Genus
-201902,111,S_sco,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
-201902,111,S_sco,3,NA,Parasite,NA,NA,NA,NA,NA,MZ12,4,NA,roundworm,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Parasite,202423,Animalia,Kingdom
-201902,95,P_tri,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,3,NA,NA,170,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Appendicularia,159664,Appendicularia,Class
-201902,95,P_tri,3,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,1,3,NA,NA,170,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Themisto,95167,Themisto,Genus
-201902,95,P_tri,3,NA,Amphipoda,NA,NA,NA,NA,NA,MZ12,1,3,NA,NA,170,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Amphipoda,93294,Amphipoda,Order
-201902,121,C_har,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,12,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,CalanoidSmall,85258,Calanoida,NA
-201902,121,C_har,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,4,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Calanus,85263,Calanus,Genus
-201902,121,C_har,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1280,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Appendicularia,159664,Appendicularia,Class
-201902,121,C_har,2,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,8,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Centropages,85761,Centropages,Genus
-201902,121,C_har,2,NA,Ostracoda,NA,NA,NA,NA,NA,MZ12,2,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Ostracoda,84195,Ostracoda,Class
-201902,121,C_har,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,2,1308,NA,split once,262,2019-03-27T20:51:00Z,56,39.906877,-72.784867,Metridia,85734,Metridia,Genus
-201902,111,A_pse,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,8,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
-201902,111,A_pse,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3016,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
-201902,111,A_pse,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,40,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
-201902,111,A_pse,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,52,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
-201902,111,A_pse,1,NA,Amphipoda,NA,NA,NA,NA,NA,MZ12,4,3120,NA,Split twice,247,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Amphipoda,93294,Amphipoda,Order
-201902,175,C_har,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,44,48,NA,NA,251,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Hyperiidae,95108,Hyperiidae,Family
-201902,175,C_har,2,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,3,48,NA,NA,251,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Temora,85874,Temora,Genus
-201902,175,C_har,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,1,48,NA,NA,251,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,111,S_sco,2,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,4212,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
-201902,111,S_sco,2,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,12,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Chaetognatha,158650,Chaetognatha,Phylum
-201902,111,S_sco,2,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
-201902,111,S_sco,2,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,20,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
-201902,111,S_sco,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,4,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
-201902,111,S_sco,2,NA,Metridia,NA,NA,NA,NA,NA,MZ12,4,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
-201902,111,S_sco,2,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,12,4268,NA,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CopepodDigested,85257,Copepoda,NA
-201902,111,S_sco,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,4,NA,roundworm,Split twice,241,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Parasite,202423,Animalia,Kingdom
-201902,111,A_pse,3,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,3048,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
-201902,111,A_pse,3,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,8,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
-201902,111,A_pse,3,NA,Calanus,NA,NA,NA,NA,NA,MZ12,4,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
-201902,111,A_pse,3,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,4,3064,NA,Split twice,229,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
-201902,122,S_sco,1,NA,Hyperiidae,NA,NA,NA,NA,NA,MZ12,12,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Hyperiidae,95108,Hyperiidae,Family
-201902,122,S_sco,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,280,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,CalanoidSmall,85258,Calanoida,NA
-201902,122,S_sco,1,NA,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,1000,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Centropages,85761,Centropages,Genus
-201902,122,S_sco,1,NA,Chaetognatha,NA,NA,NA,NA,NA,MZ12,176,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Chaetognatha,158650,Chaetognatha,Phylum
-201902,122,S_sco,1,NA,Metridia,NA,NA,NA,NA,NA,MZ12,36,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Metridia,85734,Metridia,Genus
-201902,122,S_sco,1,NA,Calanus,NA,NA,NA,NA,NA,MZ12,20,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Calanus,85263,Calanus,Genus
-201902,122,S_sco,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,8,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Appendicularia,159664,Appendicularia,Class
-201902,122,S_sco,1,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,4,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Temora,85874,Temora,Genus
-201902,122,S_sco,1,NA,CopepodDigested,NA,NA,NA,NA,NA,MZ12,16,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,CopepodDigested,85257,Copepoda,NA
-201902,122,S_sco,1,NA,Decapoda,NA,NA,NA,NA,NA,MZ12,4,1556,NA,split twice,182,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Decapoda,95599,Decopoda,Order
+201902,176,S_sco,2,NA,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,NA,NA,NA,276,2019-04-01T23:07:00Z,188,40.031023,-70.555825,Foraminiferida,44030,Foraminiferida,Order
+201804,159,P_tri,2,NA,UnknownSoft,NA,NA,NA,NA,NA,MZ12,779,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,UnknownSoft,202423,Animalia,Kingdom
+201804,159,P_tri,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,3,790,flat worm,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Parasite,202423,Animalia,Kingdom
+201804,159,P_tri,2,NA,Sapphirinidae,NA,NA,NA,NA,NA,MZ12,3,790,NA,NA,156,2018-09-20T04:53:00Z,41,41.013073,-71.692658,Sapphirinidae,88830,Sapphirinidae,Family
+201802,153,C_har,1,NA,Parasite,NA,NA,NA,NA,NA,M60,NA,1,flatworm,NA,256,2018-04-18T13:17:00Z,76,40.377098,-71.751862,Parasite,202423,Animalia,Kingdom
+201804,161,P_tri,1,NA,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,NA,20,NA,NA,107,2018-09-20T11:58:00Z,66,40.620138,-71.155052,Temora,85874,Temora,Genus
+201804,105,A_dub,2,NA,Cladocera,Penilia,NA,NA,NA,NA,MZ12,1,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Penilia,83835,Penilia,Genus
+201804,105,A_dub,2,NA,Candacia,NA,NA,NA,NA,NA,MZ12,2,60,NA,NA,153,2018-09-14T22:24:00Z,40,40.598545,-72.563973,Candacia,86020,Candacia,Genus
+201902,111,S_sco,3,1,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,2,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,3,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,4,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,5,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,6,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,7,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,8,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,9,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,10,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,CalanoidSmall,85258,Calanoida,NA
+201902,111,S_sco,3,1,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,2,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,3,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,4,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,5,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,6,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,7,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,8,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,9,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,10,Appendicularia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Appendicularia,159664,Appendicularia,Class
+201902,111,S_sco,3,1,CalanoidSmall,Centropages,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Centropages,85761,Centropages,Genus
+201902,111,S_sco,3,1,Calanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,2,Calanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,3,Calanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,4,Calanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,5,Calanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,6,Calanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Calanus,85263,Calanus,Genus
+201902,111,S_sco,3,1,Metridia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
+201902,111,S_sco,3,2,Metridia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
+201902,111,S_sco,3,3,Metridia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
+201902,111,S_sco,3,4,Metridia,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Metridia,85734,Metridia,Genus
+201902,111,S_sco,3,1,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Temora,85874,Temora,Genus
+201902,111,S_sco,3,2,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Temora,85874,Temora,Genus
+201902,111,S_sco,3,3,CalanoidSmall,Temora,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Temora,85874,Temora,Genus
+201902,111,S_sco,3,1,Caridea,NA,NA,NA,NA,NA,MZ12,NA,3568,adult shrimp,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Caridea,96106,Caridea,Infraorder
+201902,111,S_sco,3,2,Caridea,NA,NA,NA,NA,NA,MZ12,NA,3568,adult shrimp,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Caridea,96106,Caridea,Infraorder
+201902,111,S_sco,3,1,Rhincalanus,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Rhincalanus,85316,Rhincalanus,Genus
+201902,111,S_sco,3,1,Hyperiidae,NA,NA,NA,NA,NA,MZ12,NA,3568,NA,split twice,236,2019-03-20T22:17:00Z,78,40.47699,-71.6294,Hyperiidae,95108,Hyperiidae,Family
+201902,95,A_aes,1,1,Hyperiidae,NA,NA,NA,NA,NA,MZ12,NA,1,too digested,NA,252,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Hyperiidae,95108,Hyperiidae,Family
+201902,95,S_sco,3,1,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,4,NA,"may be more forams, pockets of sand/debris that could include forams,  but too broken",297,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
+201902,95,S_sco,3,2,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,4,NA,"may be more forams, pockets of sand/debris that could include forams,  but too broken",297,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
+201902,95,S_sco,3,3,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,4,NA,"may be more forams, pockets of sand/debris that could include forams,  but too broken",297,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
+201902,95,S_sco,3,4,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,4,NA,"may be more forams, pockets of sand/debris that could include forams,  but too broken",297,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
+201902,112,A_aes,1,1,Euphausiidae,NA,NA,NA,NA,NA,MZ12,NA,751,NA,NA,90,2019-03-26T18:26:00Z,48,41.20883,-71.225903,Euphausiidae,95500,Euphausiidae,Family
+201902,112,A_aes,1,1,CopepodDigested,NA,NA,NA,NA,NA,MZ12,NA,751,NA,NA,90,2019-03-26T18:26:00Z,48,41.20883,-71.225903,CopepodDigested,85257,Copepoda,NA
+201902,95,S_sco,2,1,UnknownSoft,NA,NA,NA,NA,NA,MZ12,NA,5,NA,"very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,UnknownSoft,202423,Animalia,Kingdom
+201902,95,S_sco,2,1,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,5,NA,"very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
+201902,95,S_sco,2,2,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,5,NA,"very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
+201902,95,S_sco,2,3,Foraminiferida,NA,NA,NA,NA,NA,MZ12,NA,5,NA,"very sandy, few items, perhaps pteropod shells but all broken.",293,2019-03-19T12:09:00Z,103,39.271778,-72.749875,Foraminiferida,44030,Foraminiferida,Order
