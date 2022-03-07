@@ -1,0 +1,26 @@
+attributeName	attributeDefinition	class	unit	dateTimeFormatString	missingValueCode	missingValueCodeExplanation
+cruise	Cruise that sample was collected during	character				
+station	Station where sample was collected	numeric	dimensionless			
+FishSpecies	Abbreviated name of fish species	categorical				
+FishNum	Unique number for fish specimen	character				
+preyNum	Unique number for prey specimen within each gut	numeric	dimensionless		NA	unique number not provided for taxonomic group counts
+preyTaxon	Most general taxonomic category of prey	character				
+preyTaxa	Specific taxonomic category of prey	character			NA	higher taxonomic resolution not available
+preySpp	Species of prey when identificable	character			NA	higher taxonomic resolution not available
+Ocularunits	Units on eyepiece micrometer	numeric	dimensionless		NA	not available for unmeasured prey
+Mag	Magnification used at time of measurment	numeric	dimensionless		NA	not available for unmeasured prey
+prey_mm	Length of prey	numeric	millimeter		NA	no lengths given for counts
+Scope	microscope used for identification and measurments	categorical				
+preyCount	Total number of prey items per taxonomic category in the gut of fish specimen	numeric	dimensionless		NA	no counts given on measurement values
+gutCount	Total number of prey items in the gut of fish specimen	numeric	dimensionless			
+Comments_prey	Comments on the individual prey	character				
+Comments_gut	comments on the whole gut of the fish	character				
+forkLength	Length of the fish measured from the tip of the snout to the end of the middle caudal fin rays	numeric	millimeter		NA	Fork length not measured
+BEGIN_GMT_TOWDATE	Date and time in UTC when sampling event began	Date		YYYY-MM-DD hh:mm	NA	Missing value
+average_depth	Average depth of seafloor during sampling event	numeric	meter			
+decimalLatitude	Latitude at the start of the sample event	numeric	dimensionless			
+decimalLongitude	Longitude at the start of the sample event	numeric	dimensionless			
+Llopiz_taxa	Llopiz lab category of prey item	character			NA	Empty fish gut
+scientificNameID_preyTaxon	Taxonomic serial number of prey item with prefix urn:lsid:itis.gov:itis_tsn:	character			NA	Empty fish gut
+scientificName_preyTaxon	Scientific name of prey item	character			NA	Empty fish gut
+scientificName_Rank	Taxonomic level of identification	categorical			NA	Empty fish gut

@@ -1,0 +1,21 @@
+attributeName	code	definition
+Scope	M60	Leica Microscope M60 Routine stereo microscope with LED lighting added
+Scope	MZ12	Leica Microscope MZ12 with Trinocular Head and BF DF Transmitted Light Stand
+Scope	M205C	Leica Microscope M205 C with coded zoom and apochromatic optics
+scientificName_Rank	Species	Lowest possible taxonomic category
+scientificName_Rank	Genus	taxonomic category between species and Family
+scientificName_Rank	Family	Taxonomic category between Genus and Order
+scientificName_Rank	Class	Taxonomic category between Order and Phylum
+scientificName_Rank	Order	Taxonomic category between Family and Class
+scientificName_Rank	Phylum	Taxanomic category between Class and Kingdom
+scientificName_Rank	Subclass	Taxanomic sub-category under Class
+scientificName_Rank	Infraclass	Taxanomic category within Class
+scientificName_Rank	Kingdom	Highest taxonomic category within Biota
+scientificName_Rank	Suborder	Taxanomic sub-category under Order
+scientificName_Rank	Infraorder	Taxanomic category within Order
+FishSpecies	P_tri	Peprilus triacanthus
+FishSpecies	A_aes	Alosa aestivalis
+FishSpecies	A_pse	Alosa pseudoharengus
+FishSpecies	C_har	Clupea harengus
+FishSpecies	A_dub	Ammodytes dubius
+FishSpecies	S_sco	Scomber scombrus
