@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="knb-lter-nes.2.3" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="edi">
+  <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
+    <allow>
+      <principal>uid=NES,o=LTER,dc=ecoinformatics,dc=org</principal>
+      <permission>all</permission>
+    </allow>
+    <allow>
+      <principal>public</principal>
+      <permission>read</permission>
+    </allow>
+  </access>
+  <dataset>
+    <title>Diet composition for small pelagic fishes across the Northeast U.S. Continental Shelf for NES-LTER, ongoing since 2013</title>
+    <creator>
+      <individualName>
+        <givenName>Sarah</givenName>
+        <givenName>G</givenName>
+        <surName>Glancy</surName>
+      </individualName>
+      <organizationName>Northeast U.S. Shelf LTER</organizationName>
+      <electronicMailAddress>sglancy@whoi.edu</electronicMailAddress>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Justin</givenName>
+        <givenName>J</givenName>
+        <surName>Suca</surName>
+      </individualName>
+      <organizationName>Northeast U.S. Shelf LTER</organizationName>
+      <electronicMailAddress>jsuca@whoi.edu</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0001-5532-4780</userId>
+    </creator>
+    <creator>
+      <individualName>
+        <givenName>Joel</givenName>
+        <givenName>K</givenName>
+        <surName>Llopiz</surName>
+      </individualName>
+      <organizationName>Northeast U.S. Shelf LTER</organizationName>
+      <electronicMailAddress>jllopiz@whoi.edu</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0002-7584-7471</userId>
+    </creator>
+    <associatedParty>
+      <individualName>
+        <givenName>Joe</givenName>
+        <surName>Futrelle</surName>
+      </individualName>
+      <organizationName>Northeast U.S. Shelf LTER</organizationName>
+      <electronicMailAddress>jfutrelle@whoi.edu</electronicMailAddress>
+      <userId directory="https://orcid.org">https://orcid.org/0000-0003-4537-5853</userId>
+      <role>softwareDeveloper</role>
+    </associatedParty>
+    <pubDate>2022-03-07</pubDate>
+    <abstract>
+      <para>These data represent the diet composition of small pelagic fishes assessed by the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) project. The six species of fish in this dataset represent a subset of the species collected in bottom trawls conducted by the NOAA Fisheries Northeast Ecosystems Surveys from Cape Hatteras to the Gulf of Maine. Sampling occurred in the Spring and Fall seasons. Fish were frozen and stomach content analyses were conducted by the Fisheries Oceanography and Larval Fish Ecology Lab at the Woods Hole Oceanographic Institution. Data are counts and length measurements for prey items examined under a dissecting microscope. Prey species were matched to the lowest taxonomic level in the Integrated Taxonomic Information System (ITIS) for scientific name and taxonomic serial number. The dataset was supplemented with geospatial and temporal information from NOAA Fisheries trawl databases.</para>
+    </abstract>
+    <keywordSet>
+      <keyword>populations</keyword>
+      <keywordThesaurus>LTER Core Research Areas</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>fishes</keyword>
+      <keyword>zooplankton</keyword>
+      <keyword>predation</keyword>
+      <keyword>marine</keyword>
+      <keywordThesaurus>LTER Controlled Vocabulary</keywordThesaurus>
+    </keywordSet>
+    <keywordSet>
+      <keyword>Northeast U.S. Continental Shelf</keyword>
+      <keywordThesaurus>NOAA Large Marine Ecosystems</keywordThesaurus>
+    </keywordSet>
+    <additionalInfo>
+      <para>We also thank Sara Hamilton, Zofia Knorek, Julie Pringle, and Jaxine Wolfe for assistance with the previous version of this data package.</para>
+    </additionalInfo>
+    <intellectualRights>
+      <para>This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.
+</para>
+    </intellectualRights>
+    <coverage>
+      <geographicCoverage>
+        <geographicDescription>NES-LTER Transect</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-75.37919</westBoundingCoordinate>
+          <eastBoundingCoordinate>-66.46667</eastBoundingCoordinate>
+          <northBoundingCoordinate>44.35496</northBoundingCoordinate>
+          <southBoundingCoordinate>36.10567</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+      <temporalCoverage>
+        <rangeOfDates>
+          <beginDate>
+            <calendarDate>2013-03-15</calendarDate>
+          </beginDate>
+          <endDate>
+            <calendarDate>2019-04-12</calendarDate>
+          </endDate>
+        </rangeOfDates>
+      </temporalCoverage>
+    </coverage>
+    <maintenance>
+      <description>ongoing</description>
+    </maintenance>
+    <contact>
+      <organizationName>Northeast U.S. Shelf LTER</organizationName>
+      <positionName>Nes-Lter Information Manager</positionName>
+      <electronicMailAddress>lter-nes-info@whoi.edu</electronicMailAddress>
+    </contact>
+    <methods>
+      <methodStep>
+        <description>
+          <para># Fish collection</para>
+          <para>Alewife, blueback herring, Atlantic mackerel, Atlantic herring, Atlantic butterfish and Northern sand lance were collected from NOAA Northeast Fisheries Science Center (NEFSC) spring and fall trawl surveys: 2013 - 2015 and 2018 - 2019. Each survey spanned the continental shelf from the northern Gulf of Maine to Cape Hatteras, with spring sampling encompassing March through May and fall sampling extending from September through early November. The fish we analyzed were selected randomly from those available where bottom trawl surveys co-occurred with NOAA ECOMON plankton collections. The number of fish analyzed per species per station ranged from 1 to 5. Fish were frozen shipboard at −80 °C and stored at −20 °C (−80 °C in 2013 - 2015) until processed in the laboratory.</para>
+          <para># Diet Data Collection</para>
+          <para>Fish were thawed to near room temperature before dissection. Fork lengths were recorded for each fish. The entire gastrointestinal tract was used due to the lack of a defined stomach in clupeids. The gastrointestinal tract was then opened, and contents were placed in 95% ethanol for preservation. Gut contents were examined under a dissecting microscope and identified to the lowest taxonomic level practical. In cases of extremely high gut fullness, a known split was enumerated, and this value was divided by the fraction of total volume that the split represented to yield an approximation for total stomach contents. (We do not recognize the rows in the preyCount data table for which the latter applies. The assumption is that all rows represent totals.) A subset of individual prey items was measured under the microscope.</para>
+          <para># Data Cleaning</para>
+          <para>This version of the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) data package concatenates the previous long-format preyCount table (2013 - 2015) with new data (2018 - 2019). We include a second data table for the subset of individual prey items that were measured (2018 - 2019). GMT date and time and position at the start of the sample event and average depth were merged from NOAA Fisheries trawl databases (Northeast Fisheries Science Center, 2019: Fall Bottom Trawl Surveys from 2018-2019. NOAA National Centers for Environmental Information, https://inport.nmfs.noaa.gov/inport/item/22560; Northeast Fisheries Science Center, 2019: Spring Bottom Trawl Surveys from 2018-2019. NOAA National Centers for Environmental Information, https://inport.nmfs.noaa.gov/inport/item/22561). Columns were added for the best matched scientific name for prey species from the Integrated Taxonomic Information System (ITIS), along with the corresponding taxonomic serial number (TSN). Data cleaning and metadata template assembly were performed in R Markdown. Further documentation can be found on GitHub, at https://github.com/WHOIGit/nes-lter-fish-diet. </para>
+          <para># Quality Assurance&#13;
+We assured that the geographic and temporal coverage of the clean data table were within expected ranges.&#13;
+</para>
+        </description>
+      </methodStep>
+    </methods>
+    <project>
+      <title>Northeast U.S. Shelf LTER</title>
+      <personnel>
+        <individualName>
+          <givenName>Heidi</givenName>
+          <surName>Sosik</surName>
+        </individualName>
+        <electronicMailAddress>hsosik@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0002-4591-2842</userId>
+        <role>Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Stace</givenName>
+          <surName>Beaulieu</surName>
+        </individualName>
+        <electronicMailAddress>sbeaulieu@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0002-2609-5453</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Changsheng</givenName>
+          <surName>Chen</surName>
+        </individualName>
+        <electronicMailAddress>c1chen@umassd.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0001-8715-6101</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Rubao</givenName>
+          <surName>Ji</surName>
+        </individualName>
+        <electronicMailAddress>rji@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0002-8839-5427</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Steven</givenName>
+          <surName>Lentz</surName>
+        </individualName>
+        <electronicMailAddress>slentz@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0001-7498-0281</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Joel</givenName>
+          <surName>Llopiz</surName>
+        </individualName>
+        <electronicMailAddress>jllopiz@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0002-7584-7471</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Susanne</givenName>
+          <surName>Menden-Deuer</surName>
+        </individualName>
+        <electronicMailAddress>smenden@uri.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0002-8434-4251</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Michael</givenName>
+          <surName>Neubert</surName>
+        </individualName>
+        <electronicMailAddress>mneubert@whoi.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0001-8820-5008</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Tatiana</givenName>
+          <surName>Rynearson</surName>
+        </individualName>
+        <electronicMailAddress>rynearson@uri.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0003-2951-0066</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <personnel>
+        <individualName>
+          <givenName>Rachel</givenName>
+          <surName>Stanley</surName>
+        </individualName>
+        <electronicMailAddress>rstanle2@wellesley.edu</electronicMailAddress>
+        <userId directory="https://orcid.org">https://orcid.org/0000-0003-4860-2476</userId>
+        <role>Co-Principal Investigator</role>
+      </personnel>
+      <abstract>
+        <para>The Northeast U.S. Shelf (NES) Long-Term Ecological Research (LTER) project integrates observations, experiments, and models to understand and predict how planktonic food webs are changing, and how those changes impact the productivity of higher trophic levels. The NES-LTER is co-located with the Northeast U.S. Continental Shelf Large Marine Ecosystem, spanning the Middle Atlantic Bight and Gulf of Maine. Our focal cross-shelf transect extends about 150 km southward from Martha’s Vineyard, MA, to just beyond the shelf break. Our overarching question is: How is climate change impacting the pelagic NES ecosystem and, in particular, affecting the relationship between compositional (e.g., species diversity and size structure) and aggregate (e.g., rates of primary production, and transfer of energy to important forage fish species) variability?</para>
+      </abstract>
+      <funding>
+        <para>NSF Award OCE-1655686</para>
+      </funding>
+    </project>
+    <dataTable>
+      <entityName>Prey Counts</entityName>
+      <entityDescription>Counts of prey in individual fish guts</entityDescription>
+      <physical>
+        <objectName>Concat_Count_EDI.csv</objectName>
+        <size unit="bytes">413809</size>
+        <authentication method="MD5">3b75316bfc648779c49ea06303b149a6</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>cruise</attributeName>
+          <attributeDefinition>Cruise that sample was collected during</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Cruise that sample was collected during</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>station</attributeName>
+          <attributeDefinition>Station where sample was collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">3</minimum>
+                  <maximum exclusive="false">446</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>FishSpecies</attributeName>
+          <attributeDefinition>Abbreviated name of fish species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>P_tri</code>
+                    <definition>Peprilus triacanthus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>A_aes</code>
+                    <definition>Alosa aestivalis</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>A_pse</code>
+                    <definition>Alosa pseudoharengus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>C_har</code>
+                    <definition>Clupea harengus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>A_dub</code>
+                    <definition>Ammodytes dubius</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>S_sco</code>
+                    <definition>Scomber scombrus</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>FishNum</attributeName>
+          <attributeDefinition>Unique number for fish specimen</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique number for fish specimen</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>preyNum</attributeName>
+          <attributeDefinition>Unique number for prey specimen within each gut</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">10</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>unique number not provided for taxonomic group counts</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>preyTaxon</attributeName>
+          <attributeDefinition>Most general taxonomic category of prey</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Most general taxonomic category of prey</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>preyTaxa</attributeName>
+          <attributeDefinition>Specific taxonomic category of prey</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Specific taxonomic category of prey</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>higher taxonomic resolution not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>preySpp</attributeName>
+          <attributeDefinition>Species of prey when identificable</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Species of prey when identificable</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>higher taxonomic resolution not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Ocularunits</attributeName>
+          <attributeDefinition>Units on eyepiece micrometer</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>not available for unmeasured prey</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Mag</attributeName>
+          <attributeDefinition>Magnification used at time of measurment</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>not available for unmeasured prey</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>prey_mm</attributeName>
+          <attributeDefinition>Length of prey</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no lengths given for counts</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Scope</attributeName>
+          <attributeDefinition>microscope used for identification and measurments</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>M60</code>
+                    <definition>Leica Microscope M60 Routine stereo microscope with LED lighting added</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>MZ12</code>
+                    <definition>Leica Microscope MZ12 with Trinocular Head and BF DF Transmitted Light Stand</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>M205C</code>
+                    <definition>Leica Microscope M205 C with coded zoom and apochromatic optics</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>preyCount</attributeName>
+          <attributeDefinition>Total number of prey items per taxonomic category in the gut of fish specimen</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">87450</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no counts given on measurement values</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>gutCount</attributeName>
+          <attributeDefinition>Total number of prey items in the gut of fish specimen</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>whole</numberType>
+                <bounds>
+                  <minimum exclusive="false">0</minimum>
+                  <maximum exclusive="false">4364</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Comments_prey</attributeName>
+          <attributeDefinition>Comments on the individual prey</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Comments on the individual prey</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Comments_gut</attributeName>
+          <attributeDefinition>comments on the whole gut of the fish</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>comments on the whole gut of the fish</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forkLength</attributeName>
+          <attributeDefinition>Length of the fish measured from the tip of the snout to the end of the middle caudal fin rays</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">50</minimum>
+                  <maximum exclusive="false">928</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Fork length not measured</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>BEGIN_GMT_TOWDATE</attributeName>
+          <attributeDefinition>Date and time in UTC when sampling event began</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>average_depth</attributeName>
+          <attributeDefinition>Average depth of seafloor during sampling event</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">21.6</minimum>
+                  <maximum exclusive="false">315</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>decimalLatitude</attributeName>
+          <attributeDefinition>Latitude at the start of the sample event</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">36.1056666666667</minimum>
+                  <maximum exclusive="false">44.35496</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>decimalLongitude</attributeName>
+          <attributeDefinition>Longitude at the start of the sample event</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-75.379185</minimum>
+                  <maximum exclusive="false">-66.4666666666667</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Llopiz_taxa</attributeName>
+          <attributeDefinition>Llopiz lab category of prey item</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Llopiz lab category of prey item</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>scientificNameID_preyTaxon</attributeName>
+          <attributeDefinition>Taxonomic serial number of prey item with prefix urn:lsid:itis.gov:itis_tsn:</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Taxonomic serial number of prey item with prefix urn:lsid:itis.gov:itis_tsn:</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName_preyTaxon</attributeName>
+          <attributeDefinition>Scientific name of prey item</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific name of prey item</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName_Rank</attributeName>
+          <attributeDefinition>Taxonomic level of identification</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Species</code>
+                    <definition>Lowest possible taxonomic category</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Genus</code>
+                    <definition>taxonomic category between species and Family</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Family</code>
+                    <definition>Taxonomic category between Genus and Order</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Class</code>
+                    <definition>Taxonomic category between Order and Phylum</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Order</code>
+                    <definition>Taxonomic category between Family and Class</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Phylum</code>
+                    <definition>Taxanomic category between Class and Kingdom</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Subclass</code>
+                    <definition>Taxanomic sub-category under Class</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Infraclass</code>
+                    <definition>Taxanomic category within Class</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Kingdom</code>
+                    <definition>Highest taxonomic category within Biota</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Suborder</code>
+                    <definition>Taxanomic sub-category under Order</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Infraorder</code>
+                    <definition>Taxanomic category within Order</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>2769</numberOfRecords>
+    </dataTable>
+    <dataTable>
+      <entityName>Prey Measurements</entityName>
+      <entityDescription>Measurements of prey in individual fish guts</entityDescription>
+      <physical>
+        <objectName>Concat_Meas_EDI.csv</objectName>
+        <size unit="bytes">816468</size>
+        <authentication method="MD5">17a8028ad44bebd2174f4d91248b76fa</authentication>
+        <dataFormat>
+          <textFormat>
+            <numHeaderLines>1</numHeaderLines>
+            <recordDelimiter>\n</recordDelimiter>
+            <attributeOrientation>column</attributeOrientation>
+            <simpleDelimited>
+              <fieldDelimiter>,</fieldDelimiter>
+              <quoteCharacter>"</quoteCharacter>
+            </simpleDelimited>
+          </textFormat>
+        </dataFormat>
+      </physical>
+      <attributeList>
+        <attribute>
+          <attributeName>cruise</attributeName>
+          <attributeDefinition>Cruise that sample was collected during</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Cruise that sample was collected during</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>station</attributeName>
+          <attributeDefinition>Station where sample was collected</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">64</minimum>
+                  <maximum exclusive="false">245</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>FishSpecies</attributeName>
+          <attributeDefinition>Abbreviated name of fish species</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>P_tri</code>
+                    <definition>Peprilus triacanthus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>A_aes</code>
+                    <definition>Alosa aestivalis</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>A_pse</code>
+                    <definition>Alosa pseudoharengus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>C_har</code>
+                    <definition>Clupea harengus</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>A_dub</code>
+                    <definition>Ammodytes dubius</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>S_sco</code>
+                    <definition>Scomber scombrus</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>FishNum</attributeName>
+          <attributeDefinition>Unique number for fish specimen</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Unique number for fish specimen</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>preyNum</attributeName>
+          <attributeDefinition>Unique number for prey specimen within each gut</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">10</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>unique number not provided for taxonomic group counts</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>preyTaxon</attributeName>
+          <attributeDefinition>Most general taxonomic category of prey</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Most general taxonomic category of prey</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>preyTaxa</attributeName>
+          <attributeDefinition>Specific taxonomic category of prey</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Specific taxonomic category of prey</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>higher taxonomic resolution not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>preySpp</attributeName>
+          <attributeDefinition>Species of prey when identificable</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Species of prey when identificable</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>higher taxonomic resolution not available</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Ocularunits</attributeName>
+          <attributeDefinition>Units on eyepiece micrometer</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.18</minimum>
+                  <maximum exclusive="false">39</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>not available for unmeasured prey</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Mag</attributeName>
+          <attributeDefinition>Magnification used at time of measurment</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.63</minimum>
+                  <maximum exclusive="false">10</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>not available for unmeasured prey</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>prey_mm</attributeName>
+          <attributeDefinition>Length of prey</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">0.195121951</minimum>
+                  <maximum exclusive="false">150</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no lengths given for counts</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>Scope</attributeName>
+          <attributeDefinition>microscope used for identification and measurments</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>M60</code>
+                    <definition>Leica Microscope M60 Routine stereo microscope with LED lighting added</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>MZ12</code>
+                    <definition>Leica Microscope MZ12 with Trinocular Head and BF DF Transmitted Light Stand</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>M205C</code>
+                    <definition>Leica Microscope M205 C with coded zoom and apochromatic optics</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>preyCount</attributeName>
+          <attributeDefinition>Total number of prey items per taxonomic category in the gut of fish specimen</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">1</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>no counts given on measurement values</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>gutCount</attributeName>
+          <attributeDefinition>Total number of prey items in the gut of fish specimen</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">1</minimum>
+                  <maximum exclusive="false">4364</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Comments_prey</attributeName>
+          <attributeDefinition>Comments on the individual prey</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Comments on the individual prey</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Comments_gut</attributeName>
+          <attributeDefinition>comments on the whole gut of the fish</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>comments on the whole gut of the fish</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>forkLength</attributeName>
+          <attributeDefinition>Length of the fish measured from the tip of the snout to the end of the middle caudal fin rays</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>millimeter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">70</minimum>
+                  <maximum exclusive="false">928</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Fork length not measured</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>BEGIN_GMT_TOWDATE</attributeName>
+          <attributeDefinition>Date and time in UTC when sampling event began</attributeDefinition>
+          <storageType>date</storageType>
+          <measurementScale>
+            <dateTime>
+              <formatString>YYYY-MM-DD hh:mm</formatString>
+              <dateTimeDomain/>
+            </dateTime>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Missing value</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>average_depth</attributeName>
+          <attributeDefinition>Average depth of seafloor during sampling event</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>meter</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>natural</numberType>
+                <bounds>
+                  <minimum exclusive="false">31</minimum>
+                  <maximum exclusive="false">222</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>decimalLatitude</attributeName>
+          <attributeDefinition>Latitude at the start of the sample event</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">39.182682</minimum>
+                  <maximum exclusive="false">42.09016</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>decimalLongitude</attributeName>
+          <attributeDefinition>Longitude at the start of the sample event</attributeDefinition>
+          <storageType>float</storageType>
+          <measurementScale>
+            <ratio>
+              <unit>
+                <standardUnit>dimensionless</standardUnit>
+              </unit>
+              <numericDomain>
+                <numberType>real</numberType>
+                <bounds>
+                  <minimum exclusive="false">-73.27549</minimum>
+                  <maximum exclusive="false">-67.880808</maximum>
+                </bounds>
+              </numericDomain>
+            </ratio>
+          </measurementScale>
+        </attribute>
+        <attribute>
+          <attributeName>Llopiz_taxa</attributeName>
+          <attributeDefinition>Llopiz lab category of prey item</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Llopiz lab category of prey item</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>scientificNameID_preyTaxon</attributeName>
+          <attributeDefinition>Taxonomic serial number of prey item with prefix urn:lsid:itis.gov:itis_tsn:</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Taxonomic serial number of prey item with prefix urn:lsid:itis.gov:itis_tsn:</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName_preyTaxon</attributeName>
+          <attributeDefinition>Scientific name of prey item</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <textDomain>
+                  <definition>Scientific name of prey item</definition>
+                </textDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+        <attribute>
+          <attributeName>scientificName_Rank</attributeName>
+          <attributeDefinition>Taxonomic level of identification</attributeDefinition>
+          <storageType>string</storageType>
+          <measurementScale>
+            <nominal>
+              <nonNumericDomain>
+                <enumeratedDomain>
+                  <codeDefinition>
+                    <code>Species</code>
+                    <definition>Lowest possible taxonomic category</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Genus</code>
+                    <definition>taxonomic category between species and Family</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Family</code>
+                    <definition>Taxonomic category between Genus and Order</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Class</code>
+                    <definition>Taxonomic category between Order and Phylum</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Order</code>
+                    <definition>Taxonomic category between Family and Class</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Phylum</code>
+                    <definition>Taxanomic category between Class and Kingdom</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Subclass</code>
+                    <definition>Taxanomic sub-category under Class</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Infraclass</code>
+                    <definition>Taxanomic category within Class</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Kingdom</code>
+                    <definition>Highest taxonomic category within Biota</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Suborder</code>
+                    <definition>Taxanomic sub-category under Order</definition>
+                  </codeDefinition>
+                  <codeDefinition>
+                    <code>Infraorder</code>
+                    <definition>Taxanomic category within Order</definition>
+                  </codeDefinition>
+                </enumeratedDomain>
+              </nonNumericDomain>
+            </nominal>
+          </measurementScale>
+          <missingValueCode>
+            <code>NA</code>
+            <codeExplanation>Empty fish gut</codeExplanation>
+          </missingValueCode>
+        </attribute>
+      </attributeList>
+      <numberOfRecords>5079</numberOfRecords>
+    </dataTable>
+  </dataset>
+</eml:eml>
