@@ -13,7 +13,7 @@ scientificName_Rank	Infraclass	Taxanomic category within Class
 scientificName_Rank	Kingdom	Highest taxonomic category within Biota
 scientificName_Rank	Suborder	Taxanomic sub-category under Order
 scientificName_Rank	Infraorder	Taxanomic category within Order
-FishSpecies	P_tri	Peprilus triacanthus
+FishSpecies	P_tri	PeprilusÂ triacanthus
 FishSpecies	A_aes	Alosa aestivalis
 FishSpecies	A_pse	Alosa pseudoharengus
 FishSpecies	C_har	Clupea harengus

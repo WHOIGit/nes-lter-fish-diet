@@ -2684,11 +2684,11 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201902,178,S_sco,2,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,270,272,NA,"split once, multipled by 2",298,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Themisto,95167,Themisto,Genus
 201902,178,S_sco,2,NA,Calanus,NA,NA,NA,NA,NA,MZ12,2,272,NA,"split once, multipled by 2",298,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Calanus,85263,Calanus,Genus
 201902,178,S_sco,2,NA,Parasite,NA,NA,NA,NA,NA,MZ12,4,NA,roundworm,"split once, multipled by 2",298,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Parasite,202423,Animalia,Kingdom
-201902,175,A_pse,1,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,18,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,438,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,3,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
-201902,175,A_pse,1,NA,Cirripedia,NA,NA,NA,NA,NA,MZ12,2,456,Cyprid,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Cirripedia,89433,Cirripedia,Infraclass
-201902,175,A_pse,1,NA,Candacia,NA,NA,NA,NA,NA,MZ12,5,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Candacia,86020,Candacia,Genus
+201902,175,A_pse,1,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,18,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,NA,Appendicularia,NA,NA,NA,NA,NA,MZ12,438,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,NA,CalanoidSmall,NA,NA,NA,NA,NA,MZ12,3,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
+201902,175,A_pse,1,NA,Cirripedia,NA,NA,NA,NA,NA,MZ12,2,456,Cyprid,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Cirripedia,89433,Cirripedia,Infraclass
+201902,175,A_pse,1,NA,Candacia,NA,NA,NA,NA,NA,MZ12,5,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Candacia,86020,Candacia,Genus
 201902,204,A_pse,3,NA,Mysida,NA,NA,NA,NA,NA,MZ12,139,142,NA,NA,221,2019-04-12T16:24:00Z,67,40.524167,-69.57989,Mysida,89855,Mysida,Order
 201902,204,A_pse,3,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,3,142,NA,NA,221,2019-04-12T16:24:00Z,67,40.524167,-69.57989,Themisto,95167,Themisto,Genus
 201902,122,S_sco,3,NA,Hyperiidae,Themisto,NA,NA,NA,NA,MZ12,24,3189,NA,"split twice, counts multiplied by 4",188,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Themisto,95167,Themisto,Genus
