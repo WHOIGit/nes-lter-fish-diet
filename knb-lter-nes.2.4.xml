@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="knb-lter-nes.2.3" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="edi">
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="knb-lter-nes.2.4" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd" system="edi">
   <access authSystem="https://pasta.edirepository.org/authentication" order="allowFirst" scope="document">
     <allow>
       <principal>uid=NES,o=LTER,dc=ecoinformatics,dc=org</principal>
@@ -51,7 +51,7 @@
       <userId directory="https://orcid.org">https://orcid.org/0000-0003-4537-5853</userId>
       <role>softwareDeveloper</role>
     </associatedParty>
-    <pubDate>2022-03-07</pubDate>
+    <pubDate>2023-04-03</pubDate>
     <abstract>
       <para>These data represent the diet composition of small pelagic fishes assessed by the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) project. The six species of fish in this dataset represent a subset of the species collected in bottom trawls conducted by the NOAA Fisheries Northeast Ecosystems Surveys from Cape Hatteras to the Gulf of Maine. Sampling occurred in the Spring and Fall seasons. Fish were frozen and stomach content analyses were conducted by the Fisheries Oceanography and Larval Fish Ecology Lab at the Woods Hole Oceanographic Institution. Data are counts and length measurements for prey items examined under a dissecting microscope. Prey species were matched to the lowest taxonomic level in the Integrated Taxonomic Information System (ITIS) for scientific name and taxonomic serial number. The dataset was supplemented with geospatial and temporal information from NOAA Fisheries trawl databases.</para>
     </abstract>
@@ -116,7 +116,7 @@
           <para># Data Cleaning</para>
           <para>This version of the Northeast U.S. Shelf Long-Term Ecological Research (NES-LTER) data package concatenates the previous long-format preyCount table (2013 - 2015) with new data (2018 - 2019). We include a second data table for the subset of individual prey items that were measured (2018 - 2019). GMT date and time and position at the start of the sample event and average depth were merged from NOAA Fisheries trawl databases (Northeast Fisheries Science Center, 2019: Fall Bottom Trawl Surveys from 2018-2019. NOAA National Centers for Environmental Information, https://inport.nmfs.noaa.gov/inport/item/22560; Northeast Fisheries Science Center, 2019: Spring Bottom Trawl Surveys from 2018-2019. NOAA National Centers for Environmental Information, https://inport.nmfs.noaa.gov/inport/item/22561). Columns were added for the best matched scientific name for prey species from the Integrated Taxonomic Information System (ITIS), along with the corresponding taxonomic serial number (TSN). Data cleaning and metadata template assembly were performed in R Markdown. Further documentation can be found on GitHub, at https://github.com/WHOIGit/nes-lter-fish-diet. </para>
           <para># Quality Assurance</para>
-          <para>We assured that the geographic and temporal coverage of the clean data table were within expected ranges, with the exception of some longitude values from the previous version of this data package. Note the previous version includes a decimalLongitude_flag column as a quality assurance flag to the decimalLongitude column.&#13;
+          <para>We assured that the geographic and temporal coverage of the clean data table were within expected ranges, with the exception of some longitude values from the previous version of this data package. Note the previous version includes a decimalLongitude_flag column as a quality assurance flag to the decimalLongitude column.
 </para>
         </description>
       </methodStep>
@@ -225,8 +225,8 @@
       <entityDescription>Counts of prey in individual fish guts</entityDescription>
       <physical>
         <objectName>Concat_Count_EDI.csv</objectName>
-        <size unit="bytes">413809</size>
-        <authentication method="MD5">3b75316bfc648779c49ea06303b149a6</authentication>
+        <size unit="bytes">413799</size>
+        <authentication method="MD5">7b9c5c961be250b7963f7fdaee0ec99f</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -767,8 +767,8 @@
       <entityDescription>Measurements of prey in individual fish guts</entityDescription>
       <physical>
         <objectName>Concat_Meas_EDI.csv</objectName>
-        <size unit="bytes">816468</size>
-        <authentication method="MD5">17a8028ad44bebd2174f4d91248b76fa</authentication>
+        <size unit="bytes">816418</size>
+        <authentication method="MD5">6771561f2d7b24c792ca067caa8283b3</authentication>
         <dataFormat>
           <textFormat>
             <numHeaderLines>1</numHeaderLines>
@@ -1317,4 +1317,12 @@
       <numberOfRecords>5079</numberOfRecords>
     </dataTable>
   </dataset>
+  <additionalMetadata>
+    <metadata>
+      <emlEditor>
+        <app>EMLassemblyline</app>
+        <release>3.5.5</release>
+      </emlEditor>
+    </metadata>
+  </additionalMetadata>
 </eml:eml>

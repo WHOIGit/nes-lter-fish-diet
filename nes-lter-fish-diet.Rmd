@@ -159,7 +159,7 @@ temp_coverage <- temporal_coverage(append(count_table$BEGIN_GMT_TOWDATE,
 Produce EML
 
 ```{r}
-pkg_id <- "knb-lter-nes.2.3"
+pkg_id <- "knb-lter-nes.2.4"
 
 dataset_title = 'Diet composition for small pelagic fishes across the Northeast U.S. Continental Shelf for NES-LTER, ongoing since 2013'
 

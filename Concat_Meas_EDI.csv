@@ -3292,31 +3292,31 @@ cruise,station,FishSpecies,FishNum,preyNum,preyTaxon,preyTaxa,preySpp,Ocularunit
 201902,178,S_sco,2,7,Hyperiidae,Themisto,NA,3.7,0.8,4.625,MZ12,NA,272,NA,"split once, multipled by 2",298,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Themisto,95167,Themisto,Genus
 201902,178,S_sco,2,8,Hyperiidae,Themisto,NA,3.2,0.8,4,MZ12,NA,272,NA,"split once, multipled by 2",298,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Themisto,95167,Themisto,Genus
 201902,178,S_sco,2,1,Calanus,NA,NA,2,0.8,2.5,MZ12,NA,272,NA,"split once, multipled by 2",298,2019-04-02T05:33:00Z,125,40.065047,-69.859665,Calanus,85263,Calanus,Genus
-201902,175,A_pse,1,1,Hyperiidae,Themisto,NA,2.6,0.8,3.25,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,2,Hyperiidae,Themisto,NA,2.5,0.8,3.125,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,3,Hyperiidae,Themisto,NA,3.1,0.8,3.875,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,4,Hyperiidae,Themisto,NA,2.8,0.8,3.5,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,5,Hyperiidae,Themisto,NA,3.4,0.8,4.25,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,6,Hyperiidae,Themisto,NA,0.8,0.8,1,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,7,Hyperiidae,Themisto,NA,2.2,0.8,2.75,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,8,Hyperiidae,Themisto,NA,2.7,0.8,3.375,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,9,Hyperiidae,Themisto,NA,2.7,0.8,3.375,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,10,Hyperiidae,Themisto,NA,3.1,0.8,3.875,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
-201902,175,A_pse,1,1,Appendicularia,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,2,Appendicularia,NA,NA,0.9,0.8,1.125,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,3,Appendicularia,NA,NA,1.5,0.8,1.875,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,4,Appendicularia,NA,NA,1.1,0.8,1.375,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,5,Appendicularia,NA,NA,1.3,0.8,1.625,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,6,Appendicularia,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,7,Appendicularia,NA,NA,2.2,0.8,2.75,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,8,Appendicularia,NA,NA,1.3,0.8,1.625,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,9,Appendicularia,NA,NA,1.6,0.8,2,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,10,Appendicularia,NA,NA,1.1,0.8,1.375,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
-201902,175,A_pse,1,1,CalanoidSmall,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
-201902,175,A_pse,1,2,CalanoidSmall,NA,NA,1.1,0.8,1.375,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
-201902,175,A_pse,1,3,CalanoidSmall,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
-201902,175,A_pse,1,1,Cirripedia,NA,NA,0.9,0.8,1.125,MZ12,NA,456,Cyprid,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Cirripedia,89433,Cirripedia,Infraclass
-201902,175,A_pse,1,2,Cirripedia,NA,NA,0.8,0.8,1,MZ12,NA,456,Cyprid,"NA; tail cut off",NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Cirripedia,89433,Cirripedia,Infraclass
+201902,175,A_pse,1,1,Hyperiidae,Themisto,NA,2.6,0.8,3.25,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,2,Hyperiidae,Themisto,NA,2.5,0.8,3.125,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,3,Hyperiidae,Themisto,NA,3.1,0.8,3.875,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,4,Hyperiidae,Themisto,NA,2.8,0.8,3.5,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,5,Hyperiidae,Themisto,NA,3.4,0.8,4.25,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,6,Hyperiidae,Themisto,NA,0.8,0.8,1,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,7,Hyperiidae,Themisto,NA,2.2,0.8,2.75,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,8,Hyperiidae,Themisto,NA,2.7,0.8,3.375,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,9,Hyperiidae,Themisto,NA,2.7,0.8,3.375,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,10,Hyperiidae,Themisto,NA,3.1,0.8,3.875,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Themisto,95167,Themisto,Genus
+201902,175,A_pse,1,1,Appendicularia,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,2,Appendicularia,NA,NA,0.9,0.8,1.125,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,3,Appendicularia,NA,NA,1.5,0.8,1.875,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,4,Appendicularia,NA,NA,1.1,0.8,1.375,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,5,Appendicularia,NA,NA,1.3,0.8,1.625,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,6,Appendicularia,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,7,Appendicularia,NA,NA,2.2,0.8,2.75,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,8,Appendicularia,NA,NA,1.3,0.8,1.625,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,9,Appendicularia,NA,NA,1.6,0.8,2,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,10,Appendicularia,NA,NA,1.1,0.8,1.375,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Appendicularia,159664,Appendicularia,Class
+201902,175,A_pse,1,1,CalanoidSmall,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
+201902,175,A_pse,1,2,CalanoidSmall,NA,NA,1.1,0.8,1.375,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
+201902,175,A_pse,1,3,CalanoidSmall,NA,NA,1,0.8,1.25,MZ12,NA,456,NA,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,CalanoidSmall,85258,Calanoida,NA
+201902,175,A_pse,1,1,Cirripedia,NA,NA,0.9,0.8,1.125,MZ12,NA,456,Cyprid,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Cirripedia,89433,Cirripedia,Infraclass
+201902,175,A_pse,1,2,Cirripedia,NA,NA,0.8,0.8,1,MZ12,NA,456,Cyprid,NA; tail cut off,NA,2019-04-01T11:48:00Z,76,40.486348,-70.673363,Cirripedia,89433,Cirripedia,Infraclass
 201902,204,A_pse,3,1,Mysida,NA,NA,8,0.8,10,MZ12,NA,142,NA,NA,221,2019-04-12T16:24:00Z,67,40.524167,-69.57989,Mysida,89855,Mysida,Order
 201902,122,S_sco,3,1,Hyperiidae,Themisto,NA,3.3,0.8,4.125,MZ12,NA,3189,NA,"split twice, counts multiplied by 4",188,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Themisto,95167,Themisto,Genus
 201902,122,S_sco,3,2,Hyperiidae,Themisto,NA,2.5,0.8,3.125,MZ12,NA,3189,NA,"split twice, counts multiplied by 4",188,2019-03-28T00:07:00Z,45,39.77813,-73.222168,Themisto,95167,Themisto,Genus
